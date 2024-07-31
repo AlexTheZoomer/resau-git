@@ -1,5 +1,5 @@
 ---
-title: Welcome To The Greenhouse
+title: Welcome To The Greenhouse 🌳
 draft: false
 tags:
   - Introductions
