@@ -8,7 +8,7 @@ Before we begin!
 
 I would like to give a special thank you to:
 
-- [Josh Latka](https://www.dal.ca/faculty/engineering/math-internetworking/people/people-profiles/josh-latka.html), Professor of Engineering Mathematics 
+- [Josh Latka](https://www.dal.ca/faculty/engineering/math-internetworking/people/people-profiles/josh-latka.html), Professor of Engineering Mathematics at Dalhousie University
 
 - [Prime Newtons](https://www.youtube.com/c/PrimeNewtons), Mathematical Education on YouTube
 
