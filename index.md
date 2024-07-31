@@ -27,7 +27,7 @@ Some of things I have worked on.
 		- Multivariable Integration
 		- Greens and Stokes Theorem
 
-	- [Linear Algebra](obsidian://open?vault=Publish&file=Math%2Flinalg)
+	- [Linear Algebra](linalg.md)
 		- Markov Chains, and uses
 		- Visualization of 3D space
 		- Cross and Dotted Products
