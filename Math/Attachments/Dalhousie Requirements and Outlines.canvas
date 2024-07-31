@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"type":"file","file":"Semester One/PHYC1190  - Physics I/PHYC1190 outline + Syllabus.md","id":"6d6277c031a5c2aa","x":-1580,"y":-820,"width":400,"height":400},
+		{"id":"9493cad4092e307a","type":"file","file":"Semester One/ENGM1081 - Computer Programming/ENGM 1081 Outline + Syllabus.md","x":-1180,"y":-820,"width":400,"height":400},
+		{"id":"a3b7a1d4c036e965","type":"file","file":"Semester One/ENGI1103 - Engineering Design I/ENGI1103 Outline + Syllabus.md","x":-1580,"y":-420,"width":400,"height":400},
+		{"id":"91c65ba3a0246ea5","type":"file","file":"Semester One/MATH1280 - Engineering Math I/MATH1280 Outline + Syllabus.md","x":-1180,"y":-420,"width":400,"height":400},
+		{"id":"7779d74f468bc171","type":"file","file":"Semester One/CPST1103 - Technical Communications I/CPST1103 Outline + Syllabus.md","x":-780,"y":-820,"width":400,"height":400},
+		{"id":"77e600ab31486d44","type":"file","file":"Semester One/CHEM1021 - Concepts in Chemistry/CHEM1011 and CHEM1021 - Outline + Syllabus.md","x":-780,"y":-420,"width":400,"height":400},
+		{"id":"f50048e1f5065307","type":"file","file":"Semester Two/ENGM1041 - Applied Linear Algebra/Attachments/Important Dalhousie Engineering Dates.md","x":-1180,"y":-20,"width":400,"height":400},
+		{"id":"4f28dc64433613da","type":"link","url":"https://www.dal.ca/current_students.html","x":-1580,"y":-20,"width":400,"height":400}
+	],
+	"edges":[]
+}
