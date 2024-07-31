@@ -4,7 +4,17 @@ draft: false
 tags:
   - Mathematics ➗
 ---
+Before we begin!
 
+I would like to give a special thank you to
+
+[Josh Latka](https://www.dal.ca/faculty/engineering/math-internetworking/people/people-profiles/josh-latka.html), Professor of Engineering Mathematics 
+[Prime Newtons](https://www.youtube.com/c/PrimeNewtons), Mathematical Education on YouTube
+[David James "Dave" Farina](https://www.youtube.com/professordaveexplains) Mathematical Education 
+
+For their contributions in Mathematical education, and provision of knowledge for this document.
+
+---
 ### <u>Vector Spaces</u>
 
 - A vector spaces is a set of vectors 
