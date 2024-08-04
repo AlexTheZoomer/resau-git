@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers/importanceoffoss.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers/importanceoffoss.md",
+                "file": "Papers/nationalcharge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Papers/importanceoffoss.md",
+                "file": "Papers/nationalcharge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Papers/importanceoffoss.md"
+                "file": "Papers/nationalcharge.md"
               }
             }
           }
@@ -165,10 +165,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f7ea33b349b2bd73",
+  "active": "8ea42adcb8994a9d",
   "lastOpenFiles": [
-    "Papers/nationalcharge.md",
+    "index.md",
     "Papers/importanceoffoss.md",
+    "Papers/nationalcharge.md",
     "importanceoffoss^Android internal open-source software stack (Alphabet Inc [Google], 2023).md",
     "Attachments/clip_image004.png",
     "Attachments/clip_image002.png",
@@ -193,7 +194,6 @@
     "Math/Attachments/Dalhousie Requirements and Outlines.canvas",
     "Math/Attachments/().md",
     "Math/Attachments",
-    "index.md",
     "Templater.md",
     "How.md",
     "index.md.save",

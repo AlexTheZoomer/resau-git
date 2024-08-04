@@ -272,7 +272,7 @@ The Raspberry Pi platform has been used as a tool to assist in teaching coding t
 Across all industries, The GNU/Linux operating system and FOSS software has proven to be dependable, secure if properly maintained, and crucial to many tasks (The Linux Foundation, 2022). By being open source, it can allow an individual or organization to modify the source software to their needs, and not have to worry about legal repercussion, if licensed properly (Saltzer, 2020; Stallman, 2023). The open-source philosophy will always encourage collaboration, community involvement, and democracy to thrive (Mangnani & Sakharkar, 2023), and will continue to be a crucial, and necessary tool for science, research, education, industry, and innovation (Karthikeyan et al., 2023).
 
 
-
+---
 # References
 
 Alphabet Inc [Google]. (2023). Platform architecture. _Android Developers_.       [https://developer.android.com/guide/platform](https://developer.android.com/guide/platform) 

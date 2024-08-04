@@ -37,11 +37,11 @@ Some of things I have worked on.
 
 - My Academic Papers
 
-	- First Year Engineering Papers
+	- Engineering Papers
 	
 		- [[nationalcharge|National Charge: Canadian Federal EV Standards Regulation]]
 		
-		- [[importanceoffoss|The Vital Importance of FOSS:The GNU/Linux Operating System]]
+		- [[importanceoffoss| The Vital Importance of FOSS:The GNU/Linux Operating System]]
 
 
 ---

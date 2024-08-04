@@ -384,7 +384,7 @@ The SAE J1772/CCS standard delivers high voltage DC over the two lower large pin
 
   
 
-Established in 2010 by the Tokyo Electric Power Company (TEPCO), CHAdeMO was one of the earliest pioneers in the DCFC rapid charging market. CHAdeMO is a high voltage DC bidirectional charging standard backed by Japanese manufacturers Subaru, Mitsubishi Heavy Industries, and Panasonic, and is currently maintained by the CHAdeMO Association and TEPCO. (CHAdeMO Association, 2022). CHAdeMO has struggled with mass adoption in the North American market since its inception, however, enjoys large market share in eastern Asian regions such as Japan (96%) (Shimizu et al., 2023). The CHAdeMO standard is currently the only standard available globally with the ability to accommodate V2G grid buyback technologies, which Japan has proven itself very open to. (CHAdeMO Association, 2022)
+Established in 2010 by the Tokyo Electric Power Company (TEPCO), CHAdeMO was one of the earliest pioneers in the DCFC rapid charging market. CHAdeMO is a high voltage DC bidirectional charging standard backed by Japanese manufacturers Subaru, Mitsubishi Heavy Industries, and Panasonic, and is currently maintained by the CHAdeMO Association and TEPCO. (CHAdeMO Association, 2022). CHAdeMO has struggled with mass adoption in the North American market since its inception, however, enjoys large market share in eastern Asian regions such as Japan (96%) (Shimizu et al., 2023). The CHAdeMO standard is currently the only standard available globally with the ability to accommodate V<sub>2</sub>G grid buyback technologies, which Japan has proven itself very open to. (CHAdeMO Association, 2022)
 
 Introduced in June 2018, CHAdeMO 2.0 was a revision aimed at raising charging speeds to match competitors SAE J1772/CCS and SAE J3400 (400KW at 1000V). As of 2020, The CHAdeMO Association is partnering with the China Electric Council (CEC) to publish the CHAdeMO 3.0 specification, which will deliver up to 900KW of power at 1000V.  This standard has yet to be finalized. (CHAdeMO Association, 2022). 
 
@@ -417,7 +417,7 @@ Average commercial DCFC 2 installation rates approximate $10,000 —  $40,000, 
 
 
 
-CHAdeMO offers a single cable solution for all voltages, similar to NACS. It is of similar profile to the NACS connector, and is remarkably easy to use. CHAdeMO is a remarkably safe and feature filled connector, with thoughts such as the locking charge receptacle, and V2G6 setting it apart from the competition (CHAdeMO Association, 2020). 
+CHAdeMO offers a single cable solution for all voltages, similar to NACS. It is of similar profile to the NACS connector, and is remarkably easy to use. CHAdeMO is a remarkably safe and feature filled connector, with thoughts such as the locking charge receptacle, and V<sub>2</sub>G setting it apart from the competition (CHAdeMO Association, 2020). 
 
 The primary obstacles faced by CHAdeMO in North America revolve around market share, plug availability, and the exclusive DC-only architecture of the standard. This eliminates CHAdeMO from the home market entirely, as the vast majority of North American homes can only provide 120/240V AC connections (Quick 220 Electrical Systems, n.d.). Reported public CHAdeMO infrastructure data made available by Transport Canada (2024), states that CHAdeMO connections only makes up 8.1% of Canada’s current charging ZEV infrastructure, and this number is declining each year. There have been no new market vehicle registrations for CHAdeMO-equipped vehicles in Canada as of the second quarter of 2023 (Statistics Canada, 2024). Without the use of charging adapters, this would make the use of a CHAdeMO equipped vehicle in Canada very difficult, with very limited charging options. 
 
@@ -430,7 +430,7 @@ Using a CHAdeMO 2.0 400KW connection, the CHAdeMO Association, (2022) claims tha
 
 
 
-CHAdeMO’s flexibility of installation is severely compromised by the connector's solely DC architecture. CHAdeMO cannot be used in Canadian residential installations due to the requirement of a high voltage DC input. The requirement of a high voltage DC input is a large barrier to national CHAdeMO adoption, as CHAdeMO would require significant investment into DCFC infrastructure to provide few public facing charging interfaces. CHAdeMO’s V2G capabilities, however, are very interesting. If proper infrastructure were to exist, CHAdeMO’s V2G would allow for massive gains to national grid stability, and would allow users to leverage the technology to power homes during periods of distress and grid instability. 
+CHAdeMO’s flexibility of installation is severely compromised by the connector's solely DC architecture. CHAdeMO cannot be used in Canadian residential installations due to the requirement of a high voltage DC input. The requirement of a high voltage DC input is a large barrier to national CHAdeMO adoption, as CHAdeMO would require significant investment into DCFC infrastructure to provide few public facing charging interfaces. CHAdeMO’s V<sub>2</sub>G capabilities, however, are very interesting. If proper infrastructure were to exist, CHAdeMO’s V<sub>2</sub>G would allow for massive gains to national grid stability, and would allow users to leverage the technology to power homes during periods of distress and grid instability. 
 
 
 
@@ -446,14 +446,14 @@ A comparison chart of each standard can be seen below, filtered by criteria and 
 #### Table 4: Key Points of each Assessment Criteria Overlaid on Decision Matrix
 
 
-Items of Note | Drawbacks | Benefits
+<span style="background:#fff2cc">Items of Note</span> | <span style="background:#e6b8af">Drawbacks</span> | <span style="background:#d9ead3">Benefits</span>
 
-|                |                                                                                                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                                          |                                                                                                                                                                                           |
-| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|                | Reliability/Cost                                                                                                                                                                                                                                                                                                   | User Experience                                                                                                                                                                                                                                          | Charger Installation Flexibility                                                                                                                                                          |
-| SAE J1772/CCS  | - Reliable, however, associated with poor charging infrastructure<br>    <br><br><br>- Clip Cracking issues<br>    <br><br>  <br><br>- Various cost tiers, low to high                                                                                                                                             | - Fast charging speed (350KW) <br>    <br><br>  <br><br>- Multiple connectors needed for DCFC2 <br>    <br><br>  <br><br>- Huge pre-existing infrastructure                                                                                              | - Many options for diverse AC/DC installations<br>    <br><br>  <br><br>- Current difficulty to determine fast charging infrastructure. <br>    <br><br>  <br><br>- Scalable architecture |
-| SAE J3400 NACS | - Reliable, however, not currently an open standard <br>    <br><br>  <br><br>- Reliability data skewed, and the majority of charging infrastructure corporately owned by Tesla. <br>    <br><br>  <br><br>- DCFC2 and licensing costs, not yet clear. <br>    <br><br>  <br><br>- Various cost tiers, low to high | - Fast charging speed (350KW)<br>    <br><br>  <br><br>- Overall lower current national adoption<br>    <br><br>  <br><br>- High/Comparable DCFC2 adoption<br>    <br><br>  <br><br>- Growing market share<br>    <br><br>  <br><br>- Single Cable DCFC2 | - Many options for diverse AC/DC installations<br>    <br><br>  <br><br>- Mechanically simpler compared to competition<br>    <br><br>  <br><br>- Small, sleek, easy-to-use charging port |
-| TEPCO CHAdeMo  | - Reliable, with an emphasis on user safety<br>    <br><br>  <br><br>- Connector locking while using poorly maintained public infrastructure <br>    <br><br>  <br><br>- Mechanically quite complicated<br>    <br><br>  <br><br>- No cost tiers, with a high cost of entry                                        | - Fastest Charging Speed (400KW)<br>    <br><br>  <br>  <br><br>- Very low existing market share of vehicles and infrastructure <br>    <br><br>  <br><br>- Single Cable DCFC2                                                                           | - Severely lacking options  for installation diversity<br>    <br><br>  <br><br>- High voltage DC requirement<br>    <br><br>  <br><br>- V2G6 Capabilities                                |
+|                |                                                                                                                                                                                                                                                                                                                                                                                                                          |                                                                                                                                                                                                                                                                                                                                                                                               |                                                                                                                                                                                                                                                                            |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                | Reliability/Cost                                                                                                                                                                                                                                                                                                                                                                                                         | User Experience                                                                                                                                                                                                                                                                                                                                                                               | Charger Installation Flexibility                                                                                                                                                                                                                                           |
+| SAE J1772/CCS  | <font color="#fff2cc">Reliable, however, associated with poor charging infrastructure</font><br>    <br><br><br><font color="#e6b8af">Clip Cracking issues</font><br>    <br><br>  <br><br><font color="#d9ead3">Various cost tiers, low to high</font>                                                                                                                                                                  | <font color="#fff2cc">Fast charging speed (350KW) </font><br>    <br><br>  <br><br><font color="#e6b8af">Multiple connectors needed for DCFC </font><br>    <br><br>  <br><font color="#d9ead3">Huge pre-existing infrastructure</font>                                                                                                                                                       | <font color="#fff2cc">Many options for diverse AC/DC installations</font><br>    <br><br><font color="#e6b8af">Current difficulty to determine fast charging infrastructure. </font><br>    <br><br><font color="#d9ead3">Scalable architecture</font>                     |
+| SAE J3400 NACS | <font color="#fff2cc">Reliable, however, not currently an open standard </font><br>    <br><br>  <br><font color="#e6b8af">Reliability data skewed, and the majority of charging infrastructure corporately owned by Tesla.</font> <br>    <br><br>  <br><br><font color="#e6b8af">DCFC and licensing costs, not yet clear.</font><br>    <br><br>  <br><br><font color="#d9ead3">Various cost tiers, low to high</font> | <font color="#fff2cc">Fast charging speed (350KW)</font><br>    <br><br>  <br><br><font color="#e6b8af">Overall lower current national adoption</font><br>    <br><br>  <br><br><font color="#d9ead3">High/Comparable DCFC adoption<br>    </font><br><br>  <br><br><font color="#d9ead3">Growing market share</font><br>    <br><br>  <br><br><font color="#d9ead3">Single Cable DCFC</font> | <font color="#fff2cc">Many options for diverse AC/DC installations</font><br>    <br><br>  <br><br><font color="#d9ead3">Mechanically simpler compared to competition</font><br>    <br><br>  <br><br><font color="#d9ead3">Small, sleek, easy-to-use charging port</font> |
+| TEPCO CHAdeMo  | <font color="#fff2cc">Reliable, with an emphasis on user safety<br>    </font><br><br>  <br><br><font color="#e6b8af">Connector locking while using poorly maintained public infrastructure </font><br>    <br><br>  <br><br><font color="#e6b8af">Mechanically quite complicated</font><br>    <br><br>  <br><br><font color="#e6b8af">No cost tiers, with a high cost of entry</font>                                  | <font color="#fff2cc">Fastest Charging Speed (400KW)</font><br>    <br><br>  <br>  <br><br><font color="#e6b8af">Very low existing market share of vehicles and infrastructure</font> <br>    <br><br>  <br><br><font color="#d9ead3">Single Cable DCFC</font>                                                                                                                                | <font color="#e6b8af">Severely lacking options  for installation diversity</font><br>    <br><br>  <br><br><font color="#e6b8af">High voltage DC requirement</font><br>    <br><br>  <br><br><font color="#d9ead3">V<sub>2</sub>G Capabilities</font>                      |
 
   
 
@@ -465,14 +465,14 @@ An individual point breakdown of all evaluated criteria can be seen below:
 #### Table 5: Completed Decision Matrix and Assessment Scheme based on Assessed Criteria
 
 
-Primary Recommendation| Secondary Recommendation| Not To Be Recommended
+<font color="#d9ead3">Primary Recommendation</font> | <font color="#fff2cc">Secondary Recommendation</font> | <font color="#e6b8af">Not To Be Recommended</font>
 
-|                        |                  |                 |                                  |       |
-| ---------------------- | ---------------- | --------------- | -------------------------------- | ----- |
-|                        | Reliability/Cost | User Experience | Charger Installation Flexibility | Total |
-| SAE J1772/<br><br>CCS  | 45               | 35              | 45                               | 1115  |
-| SAE J3400 <br><br>NACS | 35               | 45              | 55                               | 1215  |
-| TEPCO CHAdeMo          | 25               | 25              | 15                               | 615   |
+|                        |                  |                 |                                  |                                    |
+| ---------------------- | ---------------- | --------------- | -------------------------------- | ---------------------------------- |
+|                        | Reliability/Cost | User Experience | Charger Installation Flexibility | Total                              |
+| SAE J1772/<br><br>CCS  | 4/5              | 3/5             | 4/5                              | <font color="#c3d69b">11/15</font> |
+| SAE J3400 <br><br>NACS | 3/5              | 4/5             | 5/5                              | <font color="#d9ead3">12/15</font> |
+| TEPCO CHAdeMo          | 2/5              | 2/5             | 1/5                              | <font color="#e6b8af">6/15</font>                               |
 
 SAE J3400 NACS initially raised concerns of competition faltering, due to Tesla, Inc’s market position, and monopoly on NACS national charging. However, as NACS transitions into SAE J3400, and Tesla, Inc forgoing complete control of the standard, many primary concerns dry up. The SAE Group has demonstrated to be a reliable and fair party, which prioritizes current and future standard concerns and development over immediate profit. SAE J3400 NACS  has proven to be a strong market contender, and will be the primary recommendation of this report. 
 
@@ -500,7 +500,7 @@ TEPCO CHAdeMO cannot be recommended for the Canadian market almost solely due to
 - Nonexistent in North American ZEV market share
     
 
-While V2G is an interesting and potentially very useful future technology, the cost to Canadian consumers now would be unavoidable, and not completely necessary. CHAdeMO would demand much more change on Canadian grids than what can currently be done, and the benefits would not amount to the cost incurred. 
+While V<sub>2</sub>G is an interesting and potentially very useful future technology, the cost to Canadian consumers now would be unavoidable, and not completely necessary. CHAdeMO would demand much more change on Canadian grids than what can currently be done, and the benefits would not amount to the cost incurred. 
 
 
 # 7. Conclusion/Recommendation
@@ -524,6 +524,7 @@ The rationale behind this conclusion was based on:
 
 Once fully standardized, SAE J3400 NACS will fully complete all criteria sought out by Canadian regulators and consumers. SAE J3400 NACS will prove to be a long-lasting, dependable standard for electric vehicles in Canada, with public and industry backing alike. 
 
+---
 # Glossary of Terms
 
 3 — BEV
@@ -547,7 +548,7 @@ Plug-In Hybrid Electric Vehicle, as labelled by Transport Canada. Typically, sho
 
   
 6
-—  V2G
+—  V<sub>2</sub>G
 
 Vehicle To Grid is a technology which allows vehicles to contribute electricity back into a power grid to compensate for times of high grid demand, and to add general grid resiliency.   
 
@@ -556,12 +557,12 @@ Vehicle To Grid is a technology which allows vehicles to contribute electricity 
 
    Zero Emissions Vehicle, as labelled by Transport Canada. A vehicle which produces zero emissions while in operation. 
 
-
+---
 # References
 
 
 
-California Air Resource Board [CARB]. (2001). Adoption of amendments to the California zero-emission vehicle regulations: treatment of majority owned small and intermediate volume manufacturers and standardization of charging systems for the zero emission vehicle program. In California Air Resource Board (CARB). [https://ww2.arb.ca.gov/sites/default/files/barcu/regact/charger/uid.pdf](https://ww2.arb.ca.gov/sites/default/files/barcu/regact/charger/uid.pdf)
+California Air Resource Board {CARB}. (2001). Adoption of amendments to the California zero-emission vehicle regulations: treatment of majority owned small and intermediate volume manufacturers and standardization of charging systems for the zero emission vehicle program. In California Air Resource Board (CARB). [https://ww2.arb.ca.gov/sites/default/files/barcu/regact/charger/uid.pdf](https://ww2.arb.ca.gov/sites/default/files/barcu/regact/charger/uid.pdf)
 
 Canadian Automobile Association & Plugshare Research. (2023). The voice of the Canadian electric vehicle driver. In www.caa.ca. [https://www.caa.ca/app/uploads/2023/06/CAA-Canadian-EV-Driver-Study_FINAL_EN.pdf](https://www.caa.ca/app/uploads/2023/06/CAA-Canadian-EV-Driver-Study_FINAL_EN.pdf)
 
@@ -569,7 +570,7 @@ CHAdeMO Association. (2020). CHADeMO Mission Statement. In CHAdeMO.com. [https:/
 
 CHAdeMO Association. (2022, June). History of the CHAdeMo Organization. CHAdeMo. [https://www.chademo.com/about-us/organisation](https://www.chademo.com/about-us/organisation)
 
-Coordination Office Charging Interface c/o Carmeq GmbH. (2011, November 8). Combined Charging Current status of the combined charging system [Slide show; Web]. Daimler Automotive. [https://web.archive.org/web/20120426054301/http://www.ishavsveien.no/wp-content/uploads/2011/11/Current_status_of_the_Combined_Charging_System_v1.2.pdf](https://web.archive.org/web/20120426054301/http://www.ishavsveien.no/wp-content/uploads/2011/11/Current_status_of_the_Combined_Charging_System_v1.2.pdf)
+Coordination Office Charging Interface c/o Carmeq GmbH. (2011, November 8). Combined Charging Current status of the combined charging system {Slide show; Web}. Daimler Automotive. [https://web.archive.org/web/20120426054301/http://www.ishavsveien.no/wp-content/uploads/2011/11/Current_status_of_the_Combined_Charging_System_v1.2.pdf](https://web.archive.org/web/20120426054301/http://www.ishavsveien.no/wp-content/uploads/2011/11/Current_status_of_the_Combined_Charging_System_v1.2.pdf)
 
 CSA Group. (2022). Charging Ahead: Ensuring equity and reliability in Canada’s electric vehicle network. In CSA-Charging Infrastructure Public Policy Report. [https://www.csagroup.org/wp-content/uploads/CSA-ChargingInfrastructure-PublicPolicyReport-EN_Accessible.pdf](https://www.csagroup.org/wp-content/uploads/CSA-ChargingInfrastructure-PublicPolicyReport-EN_Accessible.pdf)
 
