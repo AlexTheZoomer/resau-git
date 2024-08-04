@@ -11,8 +11,12 @@
             "id": "0933b20cef5af866",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Homelab/Dell PowerEdge R715/poweredge.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Homelab/Dell PowerEdge R715/poweredge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Homelab/Dell PowerEdge R715/poweredge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Homelab/Dell PowerEdge R715/poweredge.md"
+              }
             }
           }
         ]
@@ -140,12 +148,13 @@
   },
   "active": "0933b20cef5af866",
   "lastOpenFiles": [
+    "Homelab/Dell PowerEdge R715/imessage.md",
+    "Attachments/Pasted image 20240409182823.png",
+    "Homelab/Dell PowerEdge R715/poweredge.md",
+    "Introduction.md",
     "Papers/nationalcharge.md",
     "Papers/importanceoffoss.md",
     "Papers",
-    "Introduction.md",
-    "Homelab/Dell PowerEdge R715/poweredge.md",
-    "Homelab/Dell PowerEdge R715/imessage.md",
     "Homelab/Dell PowerEdge R715",
     "Homelab",
     "Attachments/vector.jpeg",
@@ -157,7 +166,6 @@
     "Attachments/Screenshot from 2024-08-03 21-41-53.png",
     "Attachments/Pasted image 20240803230316.png",
     "Attachments/Pasted image 20240803225025.png",
-    "Attachments/Pasted image 20240411172935.png",
     "Attachments/Dalhousie Requirements and Outlines.canvas",
     "Attachments/().md",
     "Attachments",

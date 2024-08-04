@@ -4,7 +4,6 @@ draft: false
 tags:
   - Homelab🖥️
 ---
-# Table Of Contents
 
 - [[poweredge#Introduction|Introduction]]
 - [[poweredge#Server Software|Server Software]]
