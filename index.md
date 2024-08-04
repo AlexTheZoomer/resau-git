@@ -14,7 +14,7 @@ This site is being run on my Dell PowerEdge R715 homelab server, being routed th
 
 Some of things I have worked on.
 
-- Dell PowerEdge R715 Restoration | Homelab Project 
+- [Dell PowerEdge R715 Restoration | Homelab Project](poweredge.md)
 
 	- VSphere, XCP-NG and finally, Proxmox
 	- Proxmox Services Tree
@@ -35,6 +35,13 @@ Some of things I have worked on.
 		- Vector Spaces
 		- LaGrange polynomials
 
+- My Academic Papers
+
+	- First Year Engineering Papers
+	
+		- [[nationalcharge|National Charge: Canadian Federal EV Standards Regulation]]
+		
+		- [[importanceoffoss|The Vital Importance of FOSS:The GNU/Linux Operating System]]
 
 
 ---
