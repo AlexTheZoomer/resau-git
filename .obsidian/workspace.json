@@ -11,12 +11,8 @@
             "id": "0933b20cef5af866",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Homelab/Dell PowerEdge R715/poweredge.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homelab/Dell PowerEdge R715/poweredge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homelab/Dell PowerEdge R715/poweredge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Homelab/Dell PowerEdge R715/poweredge.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,32 +140,35 @@
   },
   "active": "0933b20cef5af866",
   "lastOpenFiles": [
-    "Homelab/Dell PowerEdge R715/imessage.md",
-    "Homelab/Dell PowerEdge R715/poweredge.md",
-    "index.md",
-    "Papers/importanceoffoss.md",
     "Papers/nationalcharge.md",
-    "Attachments/Pasted image 20240803225025.png",
-    "Attachments/Pasted image 20240803230316.png",
-    "Introduction.md",
+    "Papers/importanceoffoss.md",
     "Papers",
-    "Attachments/Snapchat-1969669407.jpg",
-    "Templater.md",
-    "Attachments/Snapchat-1099585114.jpg",
-    "How.md",
-    "Math/linalg.md",
-    "Attachments/Screenshot from 2024-08-03 21-41-53.png",
+    "Introduction.md",
+    "Homelab/Dell PowerEdge R715/poweredge.md",
+    "Homelab/Dell PowerEdge R715/imessage.md",
     "Homelab/Dell PowerEdge R715",
     "Homelab",
-    "index.md.save",
     "Attachments/vector.jpeg",
     "Attachments/parallelepiped.png",
     "Attachments/parallelepiped 1.png",
     "Attachments/linear-dependence-3d.png",
+    "Attachments/Snapchat-1969669407.jpg",
+    "Attachments/Snapchat-1099585114.jpg",
+    "Attachments/Screenshot from 2024-08-03 21-41-53.png",
+    "Attachments/Pasted image 20240803230316.png",
+    "Attachments/Pasted image 20240803225025.png",
     "Attachments/Pasted image 20240411172935.png",
     "Attachments/Dalhousie Requirements and Outlines.canvas",
     "Attachments/().md",
     "Attachments",
+    "Math/Attachments/Dalhousie Requirements and Outlines.canvas",
+    "Math/Attachments/().md",
+    "Math/Attachments",
+    "index.md",
+    "Templater.md",
+    "How.md",
+    "Math/linalg.md",
+    "index.md.save",
     "Math",
     "LICENSE",
     "Welcome.md"
