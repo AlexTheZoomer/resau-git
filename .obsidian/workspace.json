@@ -13,7 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homelab/Dell PowerEdge R715/poweredge.md",
+                "file": "Papers/importanceoffoss.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "3f714eb650be82ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ea42adcb8994a9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Papers/nationalcharge.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homelab/Dell PowerEdge R715/poweredge.md",
+                "file": "Papers/importanceoffoss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homelab/Dell PowerEdge R715/poweredge.md",
+                "file": "Papers/importanceoffoss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homelab/Dell PowerEdge R715/poweredge.md"
+                "file": "Papers/importanceoffoss.md"
               }
             }
           }
@@ -138,6 +156,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -148,12 +167,16 @@
   },
   "active": "0933b20cef5af866",
   "lastOpenFiles": [
-    "Homelab/Dell PowerEdge R715/imessage.md",
-    "Attachments/Pasted image 20240409182823.png",
-    "Homelab/Dell PowerEdge R715/poweredge.md",
-    "Introduction.md",
     "Papers/nationalcharge.md",
     "Papers/importanceoffoss.md",
+    "importanceoffoss^Android internal open-source software stack (Alphabet Inc [Google], 2023).md",
+    "clip_image004.png",
+    "clip_image002.png",
+    "Math/linalg.md",
+    "Homelab/Dell PowerEdge R715/poweredge.md",
+    "Homelab/Dell PowerEdge R715/imessage.md",
+    "Attachments/Pasted image 20240409182823.png",
+    "Introduction.md",
     "Papers",
     "Homelab/Dell PowerEdge R715",
     "Homelab",
@@ -164,8 +187,6 @@
     "Attachments/Snapchat-1969669407.jpg",
     "Attachments/Snapchat-1099585114.jpg",
     "Attachments/Screenshot from 2024-08-03 21-41-53.png",
-    "Attachments/Pasted image 20240803230316.png",
-    "Attachments/Pasted image 20240803225025.png",
     "Attachments/Dalhousie Requirements and Outlines.canvas",
     "Attachments/().md",
     "Attachments",
@@ -175,7 +196,6 @@
     "index.md",
     "Templater.md",
     "How.md",
-    "Math/linalg.md",
     "index.md.save",
     "Math",
     "LICENSE",

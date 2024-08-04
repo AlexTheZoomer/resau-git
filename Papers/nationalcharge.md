@@ -13,6 +13,7 @@ Alexandre DesAulniers | March 2024 | [PDF](https://drive.google.com/file/d/1bH2x
 ## Abstract
 
 
+
 The following recommendation report delivers a recommendation on national ZEV charging standards based on evidence provided by Canadian consumers, national regulatory bodies, vehicle charging providers, automotive manufacturers, and patterns of international success. This assessment will build off the work of other national findings and global growing pains. Particularly, this report will be influenced by assessments submitted to National Resources Canada by Dunsky Energy and Climate Advisors on March 1st 2022 (Dunsky, 2022). Previous reporting has primarily focused on the national rollout of DCFC infrastructure, and national regulation on vehicle charging voltage regulation. While being a very positive and necessary recommendation, previous reportings are missing the primary scope to which this report of recommendation will address, that being electric vehicle connector charging standards. 
 
   
@@ -22,6 +23,7 @@ The following charging standards will be assessed on a series of appropriate, an
   
   ---
   
+
 
 ## Table of Contents 
 
@@ -40,9 +42,9 @@ The following charging standards will be assessed on a series of appropriate, an
 	2.2. [[nationalcharge#2.2 Evaluative Criteria|Evaluative Criteria]]
 	
 	  2.2.1 [[nationalcharge#2.2.1 Criteria Assessment Details Reliability and Cost|Criteria Assessment Details: Reliability and Cost ]]
-
+	
 	  2.2.2 [[nationalcharge#2.2.2 Criteria Assessment Details User Experience|Criteria Assessment Details: User Experience ]]
-
+	
 	  2.2.3 [[nationalcharge#2.2.3 Criteria Assessment Details Charger Installation Flexibility|Criteria Assessment Details: Charger Installation Flexibility ]]
 	  
 3. [[nationalcharge#3. Evaluation of the SAE J1772/CCS Charging Standard|Evaluation of the SAE J1772/CCS Charging Standard]] 
@@ -50,7 +52,7 @@ The following charging standards will be assessed on a series of appropriate, an
 	3.1 [[nationalcharge#3.1 SAE J1772/CCS Charging Standard Reliability and Cost Assessment|SAE J1772/CCS Charging Standard Reliability and Cost Assessment]]
 	
 	3.2 [[nationalcharge#3.2 SAE J1772/CCS Charging Standard User Experience|SAE J1772/CCS Charging Standard User Experience]]
-
+	
 	3.3 [[nationalcharge#3.3|SAE J1772/CCS Charging Standard Charger Installation Flexibility]] 
 	
 4. [[nationalcharge#4. Evaluation of the SAE J3400 NACS Charging Standard|Evaluation of the SAE J3400 NACS Charging Standard]]
@@ -58,15 +60,15 @@ The following charging standards will be assessed on a series of appropriate, an
 	4.1 [[nationalcharge#4.1 SAE J3400 NACS Charging Standard Reliability and Cost Assessment|SAE J3400 NACS Charging Standard Reliability and Cost Assessment]]
 	
 	4.2 [[nationalcharge#4.2 SAE J3400 NACS Charging Standard User Experience|SAE J3400 NACS Charging Standard User Experience]]
-
+	
 	4.3 [[nationalcharge#4.3 SAE J3400 NACS Charging Standard Charger Installation Flexibility|SAE J3400 NACS Charging Standard Charger Installation Flexibility]]
 	
 5. [[nationalcharge#5. Evaluation of the TEPCO CHAdeMO Charging Standard|Evaluation of the TEPCO CHAdeMO Charging Standard]]
 
 	5.1 [[nationalcharge#5.1 TEPCO CHAdeMO Charging Standard Reliability and Cost Assessment|TEPCO CHAdeMO Charging Standard Reliability and Cost Assessment]]
-
+	
 	5.2 [[nationalcharge#5.2 TEPCO CHAdeMO Charging Standard User Experience|TEPCO CHAdeMO Charging Standard User Experience]]
-
+	
 	5.3 [[nationalcharge#5.3 TEPCO CHAdeMO Charging Standard Charger Installation Flexibility|TEPCO CHAdeMO Charging Standard Charger Installation Flexibility]]
 	
 6. [[nationalcharge#6. Comparison of Results|Comparison of Results]]
@@ -79,13 +81,16 @@ The following charging standards will be assessed on a series of appropriate, an
 
 
 
+
 # Lists Of Figures and Tables
 
   
 
+
 ## ​​List of Figures 
 
-  
+
+
 - Figures 1-4:  [[nationalcharge#^f9640d|Commonly found Canadian electric vehicle charging standards, adapted from (N.R Canada, 2023) ]]
 
 - Figure 5: [[nationalcharge#^a1a7a2|Makeup of Canadian electric charging network (adapted from Transport Canada, 2024)]]
@@ -98,8 +103,10 @@ The following charging standards will be assessed on a series of appropriate, an
 
 - Figure 9: [[nationalcharge#^2e6929|TEPCO CHAdeMO connector pinout interface (adapted from Mliu92 & Wikimedia Commons, 2021)]]
 
- 
+
+
 ## Lists of Tables 
+
 
 
 - Table 1: [[nationalcharge#^ebce1a|Example Decision Matrix and Assessment Scheme based on Assessed Criteria]]
@@ -115,7 +122,9 @@ The following charging standards will be assessed on a series of appropriate, an
   ---
   
 
+
 # 1. Introduction 
+
 
   
 
@@ -126,7 +135,10 @@ With the current 2050 national net-zero mandate of greenhouse gas emissions set 
 This report aims to promote the standardization of a single national charging standard, and provide a basis for a potential future federally mandated charging standard. Any information sourced from a party potentially influenced by a particular agenda, or which has something to gain from a certain result, will be properly communicated as such to the reader. 
 
 
+
 # 2. Problem Background
+
+
 
   
 
@@ -135,15 +147,18 @@ Across Canada, millions of Canadians are now entering the maturing, yet not sett
 Whether that be on the side of a Trans-Canada highway, or in Canadian homes, if a unified charging standard is to be decided on, it must fulfill the requirements needed by Canadian drivers and the Canadian climate. 
 
 
+
 ## 2.1 Potential Solutions
 
-  
+
+
 
 Currently, there are three major competing standards in the Canadian electrical vehicle market. Those being the SAE J1772/CCS Connector, the SAE J3400 NACS North American Charging Standard, commonly known as “supercharger” and the TEPCO CHAdeMo connector. It should be noted that the SAE J1772/CCS Connector can be found in two forms, standalone J1772, and combined CCS meant for high power delivery deployments. Diagrams of each connector standard can be found below:
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcoh8a94NOkriZtLZNq-GYfwN8JewytIYP5j7cKe1lMl9IZStbW2h4VHk8D8livt3Uw0yiQD9mwPzJES4RM4U-QdwTVmVNq5jpG-hMTCBoSP4litTEglb92lz5rsjhy1pf-j6CYdiULc_HhvxMs70tk-XSB?key=qAJ-MzjNJ9DUxc6fdkXQ9g)
 
 ##### Figures 1-4:  Commonly found Canadian electric vehicle charging standards, adapted from (N.R Canada, 2023)
+
 
 
 ## 2.2 Evaluative Criteria
@@ -174,39 +189,48 @@ The following table describes the weight of each assessment criteria for the fol
 Each evaluation criteria will be assessed out of five points, for a total possible fifteen points.  Additional notes will be made throughout the recommendation report in each criteria’s respective subsection, including that of potential manufacturer bias, and data sourcing concerns. Certain data points will be sourced from vehicle manufacturer datasets, and in turn, will be valued less in the event of conflicting information. Data reported from national federal bodies such as Transport Canada, Statistics Canada, and Natural Resources Canada will be taken into primary consideration, followed by international standards groups such as SAE International and the CSA Group. No dataset will be taken into consideration prior to 2022, as rapid development in the ZEV market quickly creates dated information. Miles, D. (2010) is an exception, as the data provided is still relevant. Constant development and standard revision in the past ten years have vastly changed the capabilities of ZEV charging standards. 
 
 
+
 ### 2.2.1 Criteria Assessment Details: Reliability and Cost
+
 
   
 
 Reliability will be primarily assessed on connector design, repairability complexity and historical reliability data. Cost will be primarily assessed on total residential installation cost and total commercial DCFC installation cost, but will also be assessed on upfront and continuing licensing costs, repair costs, and other associated lifetime upkeep costs. Data to evaluate reliability has been primarily sourced from SAE International (2021), CSA Group (2022), Rempel et al (2022), Evie Networks (2022) and Tesla, Inc (2022), with prudence to insure fair comparison. Data collected from Tesla’s technical specification report regarding the SAE J3400 NACS standard will be evaluated purely from a perspective of reported technical information, and not opinion. 
 
 
+
 ### 2.2.2 Criteria Assessment Details: User Experience
+
 
   
 
 The user experience assessment will be primarily assessed on the ease of use of the charging standard, current reported vehicle port usage, new vehicle sales by port, and charge times. Data will be primarily sourced from current Transport Canada (2024) public national infrastructure figures, Statistics Canada, (2024) market share reports and Canadian Automobile Association & Plugshare Research (2023) customer satisfaction surveys. Primary charge time data will be sourced from Hyundai Motor America, (2021), CHAdeMO Association, (2020), and Tesla, Inc (2022). 
 
 
+
 ### 2.2.3 Criteria Assessment Details: Charger Installation Flexibility
 
-  
+
+
 
 The charger installation flexibility criteria will primarily be assessed on the versatility of use case ranges, and possible deployment limitations. This section will include extra information on residential deployments, commercial DCFC installations, and portable charging standards and solutions. Data will be primarily collected from SAE International (2021), Hyundai Motor America (2021) and Tesla, Inc (2022). 
 
 
+
 # 3. Evaluation of the SAE J1772/CCS Charging Standard
 
-  
+
 
 The SAE J1772 connector standard was drafted and detailed in the initial J1772 standard, SAE J1772-2001. The SAE J1772 connector was created in response to the California Air Resources Board’s (CARB) request for a standardized electric vehicle connector. The SAE J1772 connector project was then given to the electric vehicle research board, AVCON, and was published in June 2001. Since the J1772-2009 revision in June 2009  SAE International has been the main regulatory body tasked with the future development of the connector. (California Air Resource Board | CARB, 2001). 
 
 Developed as part of the J1772-2009 revision, SAE International introduced the J1772/CCS Combo coupler, which added CCS high voltage direct current expansion to the J1772 standard. The CCS standard is in wide use today, by automotive manufacturers such as Hyundai Automotive, The Volkswagen Group, Mercedes-Benz Group and Nissan Motor (Coordination Office Charging Interface c/o Carmeq GmbH, 2011). CCS has been the backbone of Canadian high speed direct current charging, and has been the driving force behind the open standard high voltage direct current effort throughout the past decade (Statistics Canada, 2024). There are two variants of the CCS standard, however, this report will solely focus on the “Type 1” variant, developed for the North American domestic market.  
 
 
+
 ## 3.1 SAE J1772/CCS Charging Standard Reliability and Cost Assessment
 
-  
+
+
 
 The SAE J1772/CCS Combo charging standard has been in full effect since November 2011, and since then, has proven itself as a connector since its inception in the J1772-2009 standard revision. It can deliver stable power up to 350 kW, with complete safety (SAE International, 2021). A study done by the Department of Bioengineering, University of California, Berkeley in 2022 determined that J1772/CCS Connector equipped charging stations in the Greater Bay Area were fully functional 72.5% of the time over the course of the year of study. However, of those failures, it was reported that connector faults occurred only 0.9% percent of the time. This study was conducted using random charging intervals and 657 recorded charging stations. The study also included  public survey data, which reported that the Greater Bay Area population reported a charger connector related failure rate of 9%. The overwhelming majority of cases of non-functioning chargers (98.2%) of failures were related to payment terminals, non responding touch screens or charging terminals, and not the charging connector itself (Rempel et al., 2022). 
 
@@ -220,9 +244,11 @@ Below, are the complete findings of the University of California, Berkeley study
 The University of California, Berkeley report is considered to be one of the most credible sources of J1772/CCS reliability, and aligns with other consumer reports. The J1772/CCS connector proves robust, but is known to have issues regarding the connector clip cracking, and is frequently accompanied by underfunded public infrastructure. This has unfortunately cast a negative image on the J1772/CCS connector, and is an ongoing national issue which will continually improve (Rempel et al., 2022). The J1772/CCS connector is designed to be robust, and operate seamlessly in both direct current, and alternating current modes for residential use. It has seen many revisions over the past decade, and has a very large adoption rate. Average commercial DCFC installation rates approximate $10,000 —  $40,000, while level 2 residential connections average cost $1000 — $2000, and level 2 commercial installations average $2,000 — $10,000. (CSA Group, 2022)
 
 
+
 ## 3.2 SAE J1772/CCS Charging Standard User Experience
 
-  
+
+
 
 The SAE J1772/CCS Charging Standard is by far the most popular charging standard in Canada, accounting for 83.1% of all available charging ports nationwide. 
 
@@ -257,15 +283,19 @@ Below is a charging comparison table comparing level two J1772, and level three 
   
 To achieve the full charging speed of the reference Hyundai Ioniq 5, a full CCS DCFC  connector is needed, meaning that the driver must use the large connector combo. This may cause confusion among unfamiliar users who expect rapid charging at public Canadian charging stations.
 
+
   
 ## 3.3 SAE J1772/CCS Charging Standard Charger Installation Flexibility
 
-  
+
+
 
 SAE J1772/CCS has proven to be a very diverse standard, and can be deployed across many differing climates and installations. However, it is important to note that the additional CCS combo plug is used solely at DCFC stations, and not in residential installations. Residential J1772 is limited to 240V, 48A which is the limit of the vast majority of Canadian households. Level two charging usually requires additional electrical work to an average Canadian household as well, and will add additional cost. A level one 120V, 16A, which can be plugged into a standard Canadian AC outlet typically comes with the purchase of a ZEV vehicle, and can be used without additional cost. (CSA Group, 2022) The J1772/CCS standard will always negotiate the highest pre-determined safe charging speed capable by both the power source, and the receiving vehicle. While the three different tiers of charging of the SAE J1772/CCS may prove confusing to an unaware consumer, it has proven to be a very versatile and capable standard. (Canadian Automobile Association & Plugshare Research, 2023)
 
 
+
 # 4. Evaluation of the SAE J3400 NACS Charging Standard
+
 
   
 
@@ -274,9 +304,11 @@ Being the newest standard compared, the NACS North American Charging Standard is
 SAE J3400 NACS is currently in an unfinalized state, which proves it difficult to fully evaluate. While in its current state, it can be evaluated with Tesla and Ford vehicles, the standard hasn’t been fully implemented widely. In the present day, NACS is fully managed by Tesla, Inc. However, once finalization of the SAE J3400 standard is completed, SAE International will assume full responsibility for future development and revisions of the standard. (SAE International, 2023)
 
 
+
 ## 4.1 SAE J3400 NACS Charging Standard Reliability and Cost Assessment
 
-  
+
+
 
 Like the SAE J1772/CCS Combo standard, prior to the SAE J3400 standardization, the NACS standard has proven itself to be very reliable and capable for Canadian consumers since its initial deployment in 2012 (Canadian Automobile Association & Plugshare Research, 2023). Prior to the beginning of the SAE J3400 NACS standardization process, NACS had always enjoyed a very positive image in the light of reliability. 
 
@@ -292,8 +324,10 @@ The current situation is that charging terminals owned and operated by Tesla, In
 
 Level two residential NACS charging solutions will cost $1000 — $2000, while level two commercial installations average $2,000 — $10,000 (CSA Group, 2022). There is currently no public information about total commercial DCFC installation cost, and no current public information about future licensing costs. 
 
+
   
 ## 4.2 SAE J3400 NACS Charging Standard User Experience
+
 
   
 
@@ -318,8 +352,10 @@ This fact is also reflected in new ZEV market share statistics, as provided by S
 
 While national NACS charging infrastructure is comparatively small in terms of total national installation rates, DCFC  installations remain high. These rapid charging DCFC installations are what Canadian consumers benefit from the most, as they are mostly the only viable option while travelling long distances in Canada without charging overnight. Rivalling CCS in terms of DCFC market share allows NACS to be a very appealing option to Canadian consumers, even prior to SAE J3400 standardization. With high DCFC adoption rates, and NACS occupying over 25% of new ZEV market share, Canadian customers will continue to have many options for vehicle charging. NACS can provide up to 1,000V, 350KW, making it comparable in charging time to a comparable CCS system (1000V) (Tesla, Inc, 2022). 
 
-  
+
+
 ## 4.3 SAE J3400 NACS Charging Standard Charger Installation Flexibility
+
 
 
 
@@ -342,7 +378,9 @@ An electrical diagram can be seen below of SAE J3400 NACS’s 5 pin configuratio
 The SAE J1772/CCS standard delivers high voltage DC over the two lower large pins provided by the CCS extension, while charging communication and AC power delivery take place over the main J1772 portion of the connector. This is the reason for the large size of the combo J1772/CCS standard.
 
 
+
 # 5. Evaluation of the TEPCO CHAdeMO Charging Standard
+
 
   
 
@@ -351,7 +389,9 @@ Established in 2010 by the Tokyo Electric Power Company (TEPCO), CHAdeMO was one
 Introduced in June 2018, CHAdeMO 2.0 was a revision aimed at raising charging speeds to match competitors SAE J1772/CCS and SAE J3400 (400KW at 1000V). As of 2020, The CHAdeMO Association is partnering with the China Electric Council (CEC) to publish the CHAdeMO 3.0 specification, which will deliver up to 900KW of power at 1000V.  This standard has yet to be finalized. (CHAdeMO Association, 2022). 
 
 
+
 ## 5.1 TEPCO CHAdeMO Charging Standard Reliability and Cost Assessment
+
 
   
 
@@ -362,7 +402,8 @@ As well as the locking connector, CHAdeMO is also one of the most complex chargi
 An electrical diagram can be seen below of the TEPCO CHAdeMO pin configuration:
 
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcjcKjmwBf60CxOwgvgAkKwkU_o5BH1MvGxmqjrryhl1geC2gR3_PGtdU-im4rqacC54VLeHiUs2mMWqZDHD14Atu2c4IJxIgl9e51TZBUg0d3BdL_lKCOeDHclu1lTucJOTDFwtrsteCkQXwBYM7TjNt0u?key=qAJ-MzjNJ9DUxc6fdkXQ9g)
+
+![|500](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcjcKjmwBf60CxOwgvgAkKwkU_o5BH1MvGxmqjrryhl1geC2gR3_PGtdU-im4rqacC54VLeHiUs2mMWqZDHD14Atu2c4IJxIgl9e51TZBUg0d3BdL_lKCOeDHclu1lTucJOTDFwtrsteCkQXwBYM7TjNt0u?key=qAJ-MzjNJ9DUxc6fdkXQ9g)
 
 
 ##### Figure 9: TEPCO CHAdeMO Connector Pinout Interface (adapted from Mliu92 & Wikimedia Commons, 2021)
@@ -370,9 +411,11 @@ An electrical diagram can be seen below of the TEPCO CHAdeMO pin configuration:
 Average commercial DCFC 2 installation rates approximate $10,000 —  $40,000, which is a similar  cost to comparable SAE J1772/CCS installations (CSA Group, 2022). There are no residential A/C connections for CHAdeMO, as it is purely a DC standard.
 
 
+
 ## 5.2 TEPCO CHAdeMO Charging Standard User Experience
 
-  
+
+
 
 CHAdeMO offers a single cable solution for all voltages, similar to NACS. It is of similar profile to the NACS connector, and is remarkably easy to use. CHAdeMO is a remarkably safe and feature filled connector, with thoughts such as the locking charge receptacle, and V2G6 setting it apart from the competition (CHAdeMO Association, 2020). 
 
@@ -381,16 +424,20 @@ The primary obstacles faced by CHAdeMO in North America revolve around market sh
 Using a CHAdeMO 2.0 400KW connection, the CHAdeMO Association, (2022) claims that “it can feed the electricity necessary for 40 km drive within 5 minutes, and 60 km within 10 minutes. With 30 minutes, you can almost fully charge your EV”. No reference vehicle model was given. However, this figure would align with other known 400KW connections. 
 
 
+
 ## 5.3 TEPCO CHAdeMO Charging Standard Charger Installation Flexibility
 
-  
+
+
 
 CHAdeMO’s flexibility of installation is severely compromised by the connector's solely DC architecture. CHAdeMO cannot be used in Canadian residential installations due to the requirement of a high voltage DC input. The requirement of a high voltage DC input is a large barrier to national CHAdeMO adoption, as CHAdeMO would require significant investment into DCFC infrastructure to provide few public facing charging interfaces. CHAdeMO’s V2G capabilities, however, are very interesting. If proper infrastructure were to exist, CHAdeMO’s V2G would allow for massive gains to national grid stability, and would allow users to leverage the technology to power homes during periods of distress and grid instability. 
 
 
+
 # 6. Comparison of Results
 
-  
+
+
 
 After careful review of each charging standard under a set of strictly reviewed criteria, the weights of each standard can now be reviewed and compared. 
 
