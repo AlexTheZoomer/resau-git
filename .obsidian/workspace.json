@@ -11,6 +11,36 @@
             "id": "0933b20cef5af866",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Attachments/Header Fermilabs 11th employee_0.jpg"
+              }
+            }
+          },
+          {
+            "id": "67c7f32ae81525fc",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Attachments/Header Fermilabs 11th employee_0.jpg"
+              }
+            }
+          },
+          {
+            "id": "50766323b9fed2c8",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Attachments/Header Fermilabs 11th employee_0.jpg"
+              }
+            }
+          },
+          {
+            "id": "8ca72a59f8a8e114",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "index.md",
@@ -19,25 +49,8 @@
               }
             }
           }
-        ]
-      },
-      {
-        "id": "3f714eb650be82ab",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8ea42adcb8994a9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Papers/nationalcharge.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers/nationalcharge.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Papers/nationalcharge.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Papers/nationalcharge.md"
+                "file": "index.md"
               }
             }
           }
@@ -165,40 +178,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ea42adcb8994a9d",
+  "active": "8ca72a59f8a8e114",
   "lastOpenFiles": [
+    "Math/Vector Calculus/vec.md",
+    "Math/Vector Calculus/Triple Integrals.md",
+    "Math/Vector Calculus/Surface Integrals and Stokes Theorem.pdf",
+    "Math/Vector Calculus/Summary of Line and Surface Integrals.md",
+    "Math/Vector Calculus/Polar Coordinates, Cylindrical Systems, Spherical Systems.md",
+    "Math/Vector Calculus/Multivariable Integration.md",
+    "Math/Vector Calculus/Line Integrals.md",
+    "Math/Vector Calculus/Implicit Functions and Differentiation.md",
+    "Math/Vector Calculus/Gradients Revisited and Linear Approximations.md",
+    "Math/Vector Calculus/Functions of Several Variables.md",
+    "Math/Vector Calculus/Fields and the Laplacian.md",
+    "Math/Vector Calculus/Divergence Theorem.md",
+    "Math/Vector Calculus/Distance and Arc Length Calculation.md",
+    "Math/Vector Calculus/Curvature and Torsion.md",
+    "Math/Vector Calculus/Calculus of Scalar and Vector Fields (Vector Calculus).md",
+    "Math/Vector Calculus/Green's Therorem and Surface Integrals.pdf",
+    "Attachments/Figure-A-Six-methods-for-visualizing-the-same-2D-vector-field-They-include-1-icons-on.png",
     "index.md",
+    "Templater.md",
+    "Math/Linear Algebra/linalg.md",
+    "Math/Untitled.md",
+    "Math/Physics (EM)/phys.md",
+    "Surface Integrals and Stokes Theorem.pdf/ Surface Integrals and Stokes Theorem.md",
+    "Surface Integrals and Stokes Theorem.pdf",
     "Papers/importanceoffoss.md",
-    "Papers/nationalcharge.md",
-    "importanceoffoss^Android internal open-source software stack (Alphabet Inc [Google], 2023).md",
-    "Attachments/clip_image004.png",
-    "Attachments/clip_image002.png",
-    "Math/linalg.md",
-    "Homelab/Dell PowerEdge R715/poweredge.md",
-    "Homelab/Dell PowerEdge R715/imessage.md",
-    "Attachments/Pasted image 20240409182823.png",
-    "Introduction.md",
+    "Josh's Lecture Notes.pdf.md",
+    "Attachments/Pasted image 20240528213547.png",
+    "Attachments/Pasted image 20240528212810.png",
+    "Attachments/Pasted image 20240521113029.png",
+    "Attachments/Pasted Image 20240516115309_827.png",
+    "Attachments/Pasted Image 20240516115224_797.png",
+    "Attachments/Pasted image 20240515115116.png",
+    "Attachments/Pasted image 20240513222935.png",
+    "Attachments/Pasted image 20240513222649.png",
+    "Attachments/Pasted image 20240513112723.png",
+    "Math/Physics (EM)/Ohm's Law.md",
+    "Math/Physics (EM)/LC Circuits.md",
+    "Math/Physics (EM)/Inductance, Inductors and Mutual Induction.md",
+    "Math/Vector Calculus",
+    "Math/New folder",
+    "Math/Linear Algebra",
     "Papers",
     "Homelab/Dell PowerEdge R715",
     "Homelab",
-    "Attachments/vector.jpeg",
-    "Attachments/parallelepiped.png",
-    "Attachments/parallelepiped 1.png",
-    "Attachments/linear-dependence-3d.png",
-    "Attachments/Snapchat-1969669407.jpg",
-    "Attachments/Snapchat-1099585114.jpg",
-    "Attachments/Screenshot from 2024-08-03 21-41-53.png",
     "Attachments/Dalhousie Requirements and Outlines.canvas",
-    "Attachments/().md",
     "Attachments",
-    "Math/Attachments/Dalhousie Requirements and Outlines.canvas",
-    "Math/Attachments/().md",
-    "Math/Attachments",
-    "Templater.md",
-    "How.md",
-    "index.md.save",
-    "Math",
-    "LICENSE",
-    "Welcome.md"
+    "Math/Attachments/Dalhousie Requirements and Outlines.canvas"
   ]
 }

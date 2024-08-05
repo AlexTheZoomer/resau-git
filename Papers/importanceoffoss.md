@@ -119,7 +119,7 @@ Both licenses had the same end goal of enabling open-source projects to be legal
 
 
 
-![[clip_image004.png#]]
+![[clip_image004.png]]
 
 Figure 1: _Usage chart of common open-source licenses in 2021 according to security and open-source compliance auditor firm mend.io_ _(Rjjiii & Wikimedia Commons, 2023)_ ^5b6d11
 
@@ -216,11 +216,13 @@ With the nature of open-source code, there will always be a concern of security.
 
 GNU/Linux, and the open-source model have both proven to be extremely important in the mobile computing industry. One of open-source’s largest successes in mobile computing would be the Android project. According to Statista Research Department (2022), globally, approximately 71.6 percent of all mobile devices run a variant of the Android ASOP project.
 
-![Mobile operating systems' market share worldwide from 1 st quarter 2009...  | Download Scientific Diagram](file:///C:/Users/cucum/AppData/Local/Temp/msohtmlclip1/01/clip_image006.png)While many companies that use the Android project, such as Google, add additional closed source modules on top of the ASOP (Android Open-Source Project), the ASOP at its core is an open-source project, built on open-source modules such as the Linux kernel, and the FOSS Java API frameworks (Alphabet Inc {Google}, 2023). The Linux kernel has allowed for ease of hardware development for Android, allowing developers to develop hardware drivers for software that is otherwise industry standard, and that they are familiar with (Alphabet Inc {Google}, 2023). Hardware support for a specific device can also be up streamed into the mainline Linux kernel. (Peters & Ruff, n.d.). Most software components from the AOSP fall under the Apache 2.0 license, which is another quite common GPL like open-source license, and specialized versions of the GPLv2 (Alphabet Inc {Google}, 2023)_._
+![[clip_image006.png]]
+
+While many companies that use the Android project, such as Google, add additional closed source modules on top of the ASOP (Android Open-Source Project), the ASOP at its core is an open-source project, built on open-source modules such as the Linux kernel, and the FOSS Java API frameworks (Alphabet Inc {Google}, 2023). The Linux kernel has allowed for ease of hardware development for Android, allowing developers to develop hardware drivers for software that is otherwise industry standard, and that they are familiar with (Alphabet Inc {Google}, 2023). Hardware support for a specific device can also be up streamed into the mainline Linux kernel. (Peters & Ruff, n.d.). Most software components from the AOSP fall under the Apache 2.0 license, which is another quite common GPL like open-source license, and specialized versions of the GPLv2 (Alphabet Inc {Google}, 2023)_._
 
 Figure 2: Global mobile operating system market share (Statista Research Department, 2022). ^bc3080
 
-![The Android software stack](file:///C:/Users/cucum/AppData/Local/Temp/msohtmlclip1/01/clip_image008.jpg)
+![[clip_image008.jpg]]
 
 #### Figure 3: Android internal open-source software stack (Alphabet Inc {Google}, 2023).
 
@@ -238,7 +240,7 @@ Figure 2: Global mobile operating system market share (Statista Research Departm
 
 Linux and open-source software plays a huge role in datacenter use, and in keeping the cloud computing infrastructure our world relies on operational. The Linux operating system is used as a base by most of today’s cloud computing and software-as-a-service vendors. (Jones, M. & IBM Developer {IBM}, 2008).
 
-![The layers of cloud computing](file:///C:/Users/cucum/AppData/Local/Temp/msohtmlclip1/01/clip_image009.gif)
+![[clip_image009.gif]]
 
 Figure 4: Typical Layers of Cloud Computing Infrastructure _(__Jones, M. & IBM Developer {IBM}, 2008__)._ ^96d2ca
 

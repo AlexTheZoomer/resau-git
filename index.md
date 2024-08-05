@@ -22,26 +22,14 @@ Some of things I have worked on.
 
 - Guides on Mathematics for those like I... (challanged)
 
-	- Vector Calculus
-		- Directional Derivatives and Gradients
-		- Multivariable Integration
-		- Greens and Stokes Theorem
-
+	- [Vector Calculus](vec.md)
 	- [Linear Algebra](linalg.md)
-		- Markov Chains, and uses
-		- Visualization of 3D space
-		- Cross and Dotted Products
-		- Gram-Schmidt Algorithm
-		- Vector Spaces
-		- LaGrange polynomials
+	- [[phys|Electromagnetics and Circuits]]
 
 - My Academic Papers
 
-	- Engineering Papers
-	
-		- [[nationalcharge|National Charge: Canadian Federal EV Standards Regulation]]
-		
-		- [[importanceoffoss| The Vital Importance of FOSS:The GNU/Linux Operating System]]
+	- [[nationalcharge|National Charge: Canadian Federal EV Standards Regulation]]
+	- [[importanceoffoss| The Vital Importance of FOSS:The GNU/Linux Operating System]]
 
 
 ---
