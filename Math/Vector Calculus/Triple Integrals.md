@@ -10,7 +10,9 @@ aliases:
 
 - No different than a double integral, other than the fact that you need to integrate three times instead of two
 
-$$f(x,y,z) => \iiint f(x,y,z) dVol$$
+$$
+f(x,y,z) => \iiint f(x,y,z) dVol
+$$
 
 - Unfortunately, there isn't a good geometric interpretation. (4D ish...)
 - We are integrating in terms of volume (dzdydx)

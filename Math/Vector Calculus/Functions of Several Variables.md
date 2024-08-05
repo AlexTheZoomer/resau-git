@@ -6,7 +6,9 @@ tags:
 aliases:
   - Alexandre DesAulniers
 ---
-$$f(x_1,x_2,x_3...x_n)$$ 
+$$
+f(x_1,x_2,x_3...x_n)
+$$ 
 - Functions of several variables is usually found in things with physical quantities 
 	- Particularly, physical quantities that vary in space and time (temperature in a room, pressure density in the ocean, etc. )
 

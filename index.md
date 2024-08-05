@@ -20,11 +20,13 @@ Some of things I have worked on.
 	- Proxmox Services Tree
 	- MacOS Monterey Installation, with working IServices and Hardware Acceleration, on a Dual AMD Opteron 6380 server.
 
+
 - Guides on Mathematics for those like I... (challanged)
 
 	- [Vector Calculus](vec.md)
 	- [Linear Algebra](linalg.md)
 	- [[phys|Electromagnetics and Circuits]]
+
 
 - My Academic Papers
 

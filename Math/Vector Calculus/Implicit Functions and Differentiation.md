@@ -39,7 +39,9 @@ Remember, that y=f(x), or whatever term you are differentiating in terms of.
 
 Example to try for later!
 
-$$z^2y+3y^2x-4x^3z=0$$
+$$
+z^2y+3y^2x-4x^3z=0
+$$
 
 - Solve for (dx/dz)
 
@@ -56,25 +58,37 @@ $$\nabla_f$$
 (The upside down triangle is known as the "nabla", which is the gradient of F)
 
 2D
-$$f(x,y) = \nabla_f = (\frac{∂f}{∂x},\frac{∂f}{∂y})$$
+$$
+f(x,y) = \nabla_f = (\frac{∂f}{∂x},\frac{∂f}{∂y})
+$$
 3D
-$$f(x,y,z) = \nabla_f = (\frac{∂f}{∂x},\frac{∂f}{∂y},\frac{∂f}{∂z})$$
+$$
+f(x,y,z) = \nabla_f = (\frac{∂f}{∂x},\frac{∂f}{∂y},\frac{∂f}{∂z})
+$$
 
 Example
 
 w = f(x,y,z) = xy +cos(z)
 
-$$\nabla_w = (\frac{∂w}{∂x},\frac{∂w}{∂y},\frac{∂w}{∂z})$$
-$$ = y,z,-sin(z)$$
+$$
+\nabla_w = (\frac{∂w}{∂x},\frac{∂w}{∂y},\frac{∂w}{∂z})
+$$
+$$
+= y,z,-sin(z)
+$$
 
 #### Directional Derivatives
 
 - Rate of change of F in a direction of û
 - û can be anything chosen!
-$$D_uf  \text{  if  }\hat{u} = \hat{i} \Rightarrow D_uf = \frac{∂f}{∂x}$$
+$$
+D_uf  \text{  if  }\hat{u} = \hat{i} \Rightarrow D_uf = \frac{∂f}{∂x}
+$$
 Generally, 
 
-$$D_uf = \nabla_f \cdot \hat{u}$$
+$$
+D_uf = \nabla_f \cdot \hat{u}
+$$
 
 <u>Example</u>
 
@@ -105,7 +119,9 @@ Some quick questions about it..
 
 1) What is the direction of no ascent or decent here?
 		Perpendicular to <span style="background:#affad1">gradient</span> tangent to level curve
-		$$\hat{u}\cdot\nabla{f} = 0$$
+		$$
+		\hat{u}\cdot\nabla{f} = 0
+		$$
 		You'll have F, and you'll need to solve for û
 
 

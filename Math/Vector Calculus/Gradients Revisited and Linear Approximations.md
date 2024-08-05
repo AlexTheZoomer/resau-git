@@ -73,13 +73,21 @@ Types of Extreme Values
 2) <span style="background:#40a9ff">Singular Points </span>⇒  D<sub>u</sub>f (The directional derivative)  = undefined
 3) <span style="background:#affad1">Boundaries</span> ⇒ The ends 
 
-$$ D_uf= \nabla f\cdot\hat{u}$$ $$\text{To have a critical point, } D_uf \text{ must equal 0} $$
-$$\text{If } \nabla f =0, \text{ that makes this true.}$$
+$$
+D_uf= \nabla f\cdot\hat{u}
+$$ $$
+\text{To have a critical point, } D_uf \text{ must equal 0} 
+$$
+$$
+\text{If } \nabla f =0, \text{ that makes this true.}
+$$
 
 
 Finding critical points: **∇**f = 0,  solve for points
 
-$$(\frac{∂f}{∂x}, \frac{∂f}{∂y}, \frac{∂f}{∂z} ) = (0,0,0) $$
+$$
+(\frac{∂f}{∂x}, \frac{∂f}{∂y}, \frac{∂f}{∂z} ) = (0,0,0) 
+$$
 ![[Pasted image 20240528213547.png|600]]
 
 

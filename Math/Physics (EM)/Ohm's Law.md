@@ -32,9 +32,15 @@ $$
 - nq = Charge per m<sup>3</sup>
 - If you multiply nq by speed V, it measures the charge passing through an area per unit time (Current Density)
 
-$$ J = vnq$$
-$$\frac{I}{A} = vnq$$
-$$V=\frac{I}{Anq}$$
+$$
+J = vnq
+$$
+$$
+\frac{I}{A} = vnq
+$$
+$$
+V=\frac{I}{Anq}
+$$
 
 ---
 ### Resistivity
@@ -69,11 +75,16 @@ Resistance (R), unlike Resistivity is a property of the object itself. It is mea
 - R has a unit of ohms
 
 $$
-R =(\frac{L\rho}{A})$$
-$$\Delta V = I(\frac{L\rho}{A})$$
+R =(\frac{L\rho}{A})
+$$
+$$
+\Delta V = I(\frac{L\rho}{A})
+$$
 and the big concept of resistance is 
 
-$$\Delta V = IR$$
+$$
+\Delta V = IR
+$$
 
 
 ---
@@ -82,12 +93,20 @@ $$\Delta V = IR$$
 
 Power (p) is the energy "lost" per unit time
 
-$$P =\frac{dw}{dt} = \Delta V \frac{dq}{dt}$$
-$$P=\Delta V I$$
-$$P = I^2R$$
-$$P=\Delta \frac{V^2}{R}$$
+$$
+P =\frac{dw}{dt} = \Delta V \frac{dq}{dt}
+$$
+$$
+P=\Delta V I
+$$
+$$
+P = I^2R
+$$
+$$
+P=\Delta \frac{V^2}{R}
+$$
 
-- Power has units of [J/S] (Joules per Second) or [W]
+- Power has units of {J/S} (Joules per Second) or {W}
 - 60 Watts would be equivalent to 60 Joules of energy being lost per second
 - Resistance creates heat, and in extreme cases, light. 
 - This is a dissipation of energy

@@ -13,7 +13,9 @@ F =\sum q \hat{v} \times \hat{B}
 $$
 
 - Sum of all charges
-$$\hat{F} = I\hat{l} \times \hat{B}$$
+$$
+\hat{F} = I\hat{l} \times \hat{B}
+$$
 
 
 
@@ -25,7 +27,9 @@ $$\hat{F} = I\hat{l} \times \hat{B}$$
 ---
 ### Torque
 
-$$ \tau = IAB$$
+$$
+\tau = IAB
+$$
 
 τ = Torque
 A = Area of the loop
@@ -43,7 +47,9 @@ B = Magnetic Field
 
 For a smaller torque, you can take
 
-$$\tau =IABsin\theta$$
+$$
+\tau =IABsin\theta
+$$
 But, this can also be defined as 
 
 ![[Pasted image 20240401101649.png]]

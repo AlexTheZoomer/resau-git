@@ -11,7 +11,9 @@ aliases:
 
 Variant of Faraday's Law
 
-$$\epsilon_2 = -M \frac{dI_1}{dt}$$
+$$
+\epsilon_2 = -M \frac{dI_1}{dt}
+$$
 
 **ϵ** = EMF (V)
 M = Mutual Inductance (H, Henrys)
@@ -21,7 +23,9 @@ I = Current (A)
 - Two coils interacting with each other
 
 ---
-$$\frac{\epsilon_2}{\epsilon_1} = \frac{N_2}{N_1}$$
+$$
+\frac{\epsilon_2}{\epsilon_1} = \frac{N_2}{N_1}
+$$
 **ϵ** = EMF (V)
 N = Number of Turns
 
@@ -35,7 +39,9 @@ N = Number of Turns
 ---
 ### Self Inductance
 
-$$\epsilon = -L\frac{dI}{dt}$$
+$$
+\epsilon = -L\frac{dI}{dt}
+$$
 **ϵ** = EMF (V)
 L= Self Inductance (H, Henrys)
 I = Current (A)
@@ -52,21 +58,31 @@ Current change over time due to this EMF
 ![[Pasted image 20240408102406.png|500]]
 
 Current at a time:
-$$I(t) = I_{max}(1-e^{-\frac{1}{\tau}})$$
+$$
+I(t) = I_{max}(1-e^{-\frac{1}{\tau}})
+$$
 
 Time Constant:
-$$\tau = \frac{L}{R}$$
+$$
+\tau = \frac{L}{R}
+$$
 Half Time:
-$$t_{\frac{1}{2}} = 0.69\tau$$
+$$
+t_{\frac{1}{2}} = 0.69\tau
+$$
 
 #### Opening the Switch (Current going from max to 0A)
 
 ![[Pasted image 20240408102430.png|500]]
 
 Current at a time:
-$$I(t) = I_{max}e^{-\frac{1}{\tau}}$$
+$$
+I(t) = I_{max}e^{-\frac{1}{\tau}}
+$$
 Time Constant:
-$$\tau = \frac{L}{R}$$
+$$
+\tau = \frac{L}{R}
+$$
 
 - This is cool, because this is how surge protectors work! 
 - The exponential growth slows surging current, and a high inductance can slow surges. 
@@ -79,7 +95,9 @@ $$\tau = \frac{L}{R}$$
 
 - This can be defined by the following equation 
 
-$$U = \frac{1}{2}LI^2$$
+$$
+U = \frac{1}{2}LI^2
+$$
 U = Energy stored/released
 L = Self Inductance (H, Henrys)
 I = Current (A)

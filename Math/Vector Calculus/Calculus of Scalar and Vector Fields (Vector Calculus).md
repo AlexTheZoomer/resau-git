@@ -20,8 +20,12 @@ Vector = magnitude and direction
 
 - When vectors vary in space, you have a vector field.
 
-$$\vec{v}(x,y,z =v_x,v_y,v_z)$$
-$$v_z(x,y,z)$$
+$$
+\vec{v}(x,y,z =v_x,v_y,v_z)
+$$
+$$
+v_z(x,y,z)
+$$
 
 ![[Pasted image 20240611161548.png]]
 - Each component of a vector field can vary in space, and contains a scalar field. 

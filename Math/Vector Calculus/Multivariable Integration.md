@@ -18,10 +18,14 @@ Now, we can extend this to functions of several variables:
 #### Indefinite Integrals: Partial integration
 
 Partial integration with respect to x 
-$$\int\frac{df(x,y)}{dx}dx = f(x,y) +c(y)$$
+$$
+\int\frac{df(x,y)}{dx}dx = f(x,y) +c(y)
+$$
 Partial integration with respect to y
 
-$$\int\frac{df(x,y)}{dy}dy = f(x,y) +c(x)$$
+$$
+\int\frac{df(x,y)}{dy}dy = f(x,y) +c(x)
+$$
 
 
 The previously known "+c" integration constant, now acts more as a function created by the integration, depending on what we are taking the integral with respect to.
@@ -38,10 +42,16 @@ The previously known "+c" integration constant, now acts more as a function crea
 
 (Partial Integration with limits)
 
-$$\int_{x=a}^b\frac{df}{dx}dx =f(x,y + c(y))|_{x=a}^b$$
+$$
+\int_{x=a}^b\frac{df}{dx}dx =f(x,y + c(y))|_{x=a}^b
+$$
 Plug in A and B to be...
 
-$$(f(b,y)+c(y))-(f(a,y)+c(y))$$ $$f(b,y) - f(a,y)$$
+$$
+(f(b,y)+c(y))-(f(a,y)+c(y))
+$$ $$
+f(b,y) - f(a,y)
+$$
 Now, this is just a function of Y (no X)
 
 
@@ -58,7 +68,9 @@ Now, what would happen if limits for X involved Y?
 
 (dA is a small chunk)
 
-$$\iint g(x,y)dA = \text{Volume}$$
+$$
+\iint g(x,y)dA = \text{Volume}
+$$
 
 How do we do a double integral?
 - Math is no harder than 1D

@@ -16,7 +16,9 @@ y = rsinθ
 - Polar Coordinates are another way of representing graph systems 
 - How to we apply polar coordinates to what we have been doing with double and triple integrals?
 
-$$\iint_{Rxy}f(x,y)dxdy \space\space\space=\space\space\space \iint_{Rr\theta}g(r,\theta)rdrd\theta$$
+$$
+\iint_{Rxy}f(x,y)dxdy \space\space\space=\space\space\space \iint_{Rr\theta}g(r,\theta)rdrd\theta
+$$
 
 
 

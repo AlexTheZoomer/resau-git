@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Math/Vector Calculus/vec.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Math/Vector Calculus/vec.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Math/Vector Calculus/vec.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Math/Vector Calculus/vec.md"
               }
             }
           }
@@ -180,7 +180,6 @@
   },
   "active": "8ca72a59f8a8e114",
   "lastOpenFiles": [
-    "Math/Vector Calculus/vec.md",
     "Math/Vector Calculus/Triple Integrals.md",
     "Math/Vector Calculus/Surface Integrals and Stokes Theorem.pdf",
     "Math/Vector Calculus/Summary of Line and Surface Integrals.md",
@@ -188,6 +187,7 @@
     "Math/Vector Calculus/Multivariable Integration.md",
     "Math/Vector Calculus/Line Integrals.md",
     "Math/Vector Calculus/Implicit Functions and Differentiation.md",
+    "Math/Vector Calculus/Green's Therorem and Surface Integrals.pdf",
     "Math/Vector Calculus/Gradients Revisited and Linear Approximations.md",
     "Math/Vector Calculus/Functions of Several Variables.md",
     "Math/Vector Calculus/Fields and the Laplacian.md",
@@ -195,17 +195,21 @@
     "Math/Vector Calculus/Distance and Arc Length Calculation.md",
     "Math/Vector Calculus/Curvature and Torsion.md",
     "Math/Vector Calculus/Calculus of Scalar and Vector Fields (Vector Calculus).md",
-    "Math/Vector Calculus/Green's Therorem and Surface Integrals.pdf",
-    "Attachments/Figure-A-Six-methods-for-visualizing-the-same-2D-vector-field-They-include-1-icons-on.png",
+    "Math/Physics (EM)/phys.md",
+    "Math/Physics (EM)/Ohm's Law.md",
+    "Math/Physics (EM)/LC Circuits.md",
+    "Math/Physics (EM)/Inductance, Inductors and Mutual Induction.md",
+    "Math/Physics (EM)/Force on a Current Carrying Wire.md",
+    "Math/Physics (EM)/Capacitors in Series.md",
+    "Math/Linear Algebra/Best Approximation.md",
+    "Math/Linear Algebra/Basis and Dimension.md",
+    "Attachments/Untitled",
     "index.md",
+    "Math/Vector Calculus/vec.md",
+    "Attachments/Figure-A-Six-methods-for-visualizing-the-same-2D-vector-field-They-include-1-icons-on.png",
     "Templater.md",
     "Math/Linear Algebra/linalg.md",
-    "Math/Untitled.md",
-    "Math/Physics (EM)/phys.md",
-    "Surface Integrals and Stokes Theorem.pdf/ Surface Integrals and Stokes Theorem.md",
     "Surface Integrals and Stokes Theorem.pdf",
-    "Papers/importanceoffoss.md",
-    "Josh's Lecture Notes.pdf.md",
     "Attachments/Pasted image 20240528213547.png",
     "Attachments/Pasted image 20240528212810.png",
     "Attachments/Pasted image 20240521113029.png",
@@ -215,9 +219,6 @@
     "Attachments/Pasted image 20240513222935.png",
     "Attachments/Pasted image 20240513222649.png",
     "Attachments/Pasted image 20240513112723.png",
-    "Math/Physics (EM)/Ohm's Law.md",
-    "Math/Physics (EM)/LC Circuits.md",
-    "Math/Physics (EM)/Inductance, Inductors and Mutual Induction.md",
     "Math/Vector Calculus",
     "Math/New folder",
     "Math/Linear Algebra",
@@ -225,7 +226,6 @@
     "Homelab/Dell PowerEdge R715",
     "Homelab",
     "Attachments/Dalhousie Requirements and Outlines.canvas",
-    "Attachments",
     "Math/Attachments/Dalhousie Requirements and Outlines.canvas"
   ]
 }

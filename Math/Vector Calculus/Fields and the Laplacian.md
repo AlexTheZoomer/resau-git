@@ -21,9 +21,13 @@ In 2D, an incompressible field is associated with stream functions (similar to p
 
 - Incompressible fields have different markings!
 
-$$\vec{v}=(\frac{d\psi}{dy}, \frac{-d\psi}{dx})$$
+$$
+\vec{v}=(\frac{d\psi}{dy}, \frac{-d\psi}{dx})
+$$
 compared to 
-$$\vec{v}=(v_x, v_y)$$
+$$
+\vec{v}=(v_x, v_y)
+$$
 
 - Stream functions do NOT exist in 3D, only 2D
 
@@ -37,13 +41,17 @@ If conservative and Incompressible, the field will satisfy Laplace's Equation
 
 Recall that r(t)..
 
-$$r(t) = (x,(t),y(t),z(t))$$
+$$
+r(t) = (x,(t),y(t),z(t))
+$$
 Over a range of t, we will generate a curve. 
 
 - We have seen this before!
 
 Recall that the unit tangent vector T =
-$$\hat{T} = \frac{\frac{dr}{dt}}{||\frac{dr}{dt}||} = \frac{\vec{v}}{||\vec{v}||}$$
+$$
+\hat{T} = \frac{\frac{dr}{dt}}{||\frac{dr}{dt}||} = \frac{\vec{v}}{||\vec{v}||}
+$$
 
 - Recall our smooth curves!
 
@@ -70,7 +78,9 @@ What is f on curve?
 	- The Tangential Component
 	- The Normal Component
 	
-$$\vec{f} = \vec{f}_\hat{T} + \vec{f}_\hat{N}$$
+$$
+\vec{f} = \vec{f}_\hat{T} + \vec{f}_\hat{N}
+$$
 
 ![[PXL_20240604_144858972.jpg]]
 
@@ -81,7 +91,9 @@ $$\vec{f} = \vec{f}_\hat{T} + \vec{f}_\hat{N}$$
 
 Now,
 
-$$\hat{N} =\hat{T} \times \hat{K}$$
+$$
+\hat{N} =\hat{T} \times \hat{K}
+$$
 N is the normal
 T is the tangent
 K is the Khat from (i, j, k)
