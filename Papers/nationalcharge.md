@@ -13,8 +13,6 @@ Alexandre DesAulniers | March 2024 | [PDF](https://drive.google.com/file/d/1bH2x
 >[!abstract] 
 >The following recommendation report delivers a recommendation on national ZEV charging standards based on evidence provided by Canadian consumers, national regulatory bodies, vehicle charging providers, automotive manufacturers, and patterns of international success. This assessment will build off the work of other national findings and global growing pains. Particularly, this report will be influenced by assessments submitted to National Resources Canada by Dunsky Energy and Climate Advisors on March 1st 2022 (Dunsky, 2022). Previous reporting has primarily focused on the national rollout of DCFC infrastructure, and national regulation on vehicle charging voltage regulation. While being a very positive and necessary recommendation, previous reportings are missing the primary scope to which this report of recommendation will address, that being electric vehicle connector charging standards. 
 >
-  >
->
 >The following charging standards will be assessed on a series of appropriate, and relevant criteria, based on data found from select sources that have been properly vetted for bias, and provide purely technical and nonpartisan data. Preference will be given to data collected by Canadian national bodies such as National Resources Canada, Transport Canada, and Statistics Canada. After careful consideration and comparison, SAE J3400 NACS has been chosen as this report's recommendation due to findings and comparisons of reliability, flexibility, and ease of use. 
 
 ^0450a1
@@ -26,55 +24,31 @@ Alexandre DesAulniers | March 2024 | [PDF](https://drive.google.com/file/d/1bH2x
 ## Table of Contents 
 
 - [[nationalcharge#^0450a1|Abstract]]
-
 - [[nationalcharge#Lists Of Figures and Tables|Lists of Figures and Tables]]
-
 	- [[nationalcharge#​​List of Figures|Lists of Figures]]
-	
-	- [[nationalcharge#Lists of Tables||Lists of Tables]]
-
+	- [[nationalcharge#Lists of Tables|Lists of Tables]]
 1. [[nationalcharge#1. Introduction|Introduction]] 
-
 2. [[nationalcharge#2. Problem Background|Problem Background]] 
-
 	2.2. [[nationalcharge#2.2 Evaluative Criteria|Evaluative Criteria]]
-	
 	  2.2.1 [[nationalcharge#2.2.1 Criteria Assessment Details Reliability and Cost|Criteria Assessment Details: Reliability and Cost ]]
-	
 	  2.2.2 [[nationalcharge#2.2.2 Criteria Assessment Details User Experience|Criteria Assessment Details: User Experience ]]
-	
 	  2.2.3 [[nationalcharge#2.2.3 Criteria Assessment Details Charger Installation Flexibility|Criteria Assessment Details: Charger Installation Flexibility ]]
-	  
 3. [[nationalcharge#3. Evaluation of the SAE J1772/CCS Charging Standard|Evaluation of the SAE J1772/CCS Charging Standard]] 
-
 	3.1 [[nationalcharge#3.1 SAE J1772/CCS Charging Standard Reliability and Cost Assessment|SAE J1772/CCS Charging Standard Reliability and Cost Assessment]]
-	
 	3.2 [[nationalcharge#3.2 SAE J1772/CCS Charging Standard User Experience|SAE J1772/CCS Charging Standard User Experience]]
-	
 	3.3 [[nationalcharge#3.3|SAE J1772/CCS Charging Standard Charger Installation Flexibility]] 
-	
 4. [[nationalcharge#4. Evaluation of the SAE J3400 NACS Charging Standard|Evaluation of the SAE J3400 NACS Charging Standard]]
-
 	4.1 [[nationalcharge#4.1 SAE J3400 NACS Charging Standard Reliability and Cost Assessment|SAE J3400 NACS Charging Standard Reliability and Cost Assessment]]
-	
 	4.2 [[nationalcharge#4.2 SAE J3400 NACS Charging Standard User Experience|SAE J3400 NACS Charging Standard User Experience]]
-	
 	4.3 [[nationalcharge#4.3 SAE J3400 NACS Charging Standard Charger Installation Flexibility|SAE J3400 NACS Charging Standard Charger Installation Flexibility]]
-	
 5. [[nationalcharge#5. Evaluation of the TEPCO CHAdeMO Charging Standard|Evaluation of the TEPCO CHAdeMO Charging Standard]]
-
 	5.1 [[nationalcharge#5.1 TEPCO CHAdeMO Charging Standard Reliability and Cost Assessment|TEPCO CHAdeMO Charging Standard Reliability and Cost Assessment]]
-	
 	5.2 [[nationalcharge#5.2 TEPCO CHAdeMO Charging Standard User Experience|TEPCO CHAdeMO Charging Standard User Experience]]
-	
 	5.3 [[nationalcharge#5.3 TEPCO CHAdeMO Charging Standard Charger Installation Flexibility|TEPCO CHAdeMO Charging Standard Charger Installation Flexibility]]
-	
 6. [[nationalcharge#6. Comparison of Results|Comparison of Results]]
-
 7. [[nationalcharge#7. Conclusion/Recommendation|Conclusion/Recommendation]]
 
--  [[nationalcharge#Glossary of Terms|Glossary of Terms]]
-
+- [[nationalcharge#Glossary of Terms|Glossary of Terms]]
 - [[nationalcharge#References|References]]
 
 

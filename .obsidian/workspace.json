@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers/importanceoffoss.md",
+                "file": "Papers/nationalcharge.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers/importanceoffoss.md",
+                "file": "Papers/nationalcharge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Papers/importanceoffoss.md",
+                "file": "Papers/nationalcharge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Papers/importanceoffoss.md"
+                "file": "Papers/nationalcharge.md"
               }
             }
           }
@@ -181,9 +181,9 @@
   },
   "active": "8ca72a59f8a8e114",
   "lastOpenFiles": [
+    "Papers/importanceoffoss.md",
     "Papers/nationalcharge.md",
     "Math/Vector Calculus/vec.md",
-    "Papers/importanceoffoss.md",
     "Math/Physics (EM)/phys.md",
     "Math/Linear Algebra/linalg.md",
     "Homelab/Dell PowerEdge R715/poweredge.md",
