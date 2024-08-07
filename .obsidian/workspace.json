@@ -43,8 +43,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Vector Calculus/vec.md",
+                "file": "Homelab/Dell PowerEdge R715/poweredge.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -116,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Vector Calculus/vec.md",
+                "file": "Homelab/Dell PowerEdge R715/poweredge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Vector Calculus/vec.md",
+                "file": "Homelab/Dell PowerEdge R715/poweredge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Vector Calculus/vec.md"
+                "file": "Homelab/Dell PowerEdge R715/poweredge.md"
               }
             }
           }
@@ -180,6 +181,17 @@
   },
   "active": "8ca72a59f8a8e114",
   "lastOpenFiles": [
+    "Attachments/VMware-vCenter-Server-with-a-vSphere-cluster.png",
+    "Homelab/Dell PowerEdge R715/imessage.md",
+    "Homelab/Dell PowerEdge R715/poweredge.md",
+    "Papers/importanceoffoss.md",
+    "Attachments/VMwareESXiHostClientSummary.png",
+    "f9a2c7a4-e1dd-44d5-876f-ae9e6fb9f7f4-grafik 1.png",
+    "Attachments/f9a2c7a4-e1dd-44d5-876f-ae9e6fb9f7f4-grafik.png",
+    "xenconsole.png",
+    "Attachments/xolist.png",
+    "index.md",
+    "Math/Vector Calculus/vec.md",
     "Math/Vector Calculus/Triple Integrals.md",
     "Math/Vector Calculus/Surface Integrals and Stokes Theorem.pdf",
     "Math/Vector Calculus/Summary of Line and Surface Integrals.md",
@@ -202,23 +214,13 @@
     "Math/Physics (EM)/Force on a Current Carrying Wire.md",
     "Math/Physics (EM)/Capacitors in Series.md",
     "Math/Linear Algebra/Best Approximation.md",
-    "Math/Linear Algebra/Basis and Dimension.md",
     "Attachments/Untitled",
-    "index.md",
-    "Math/Vector Calculus/vec.md",
     "Attachments/Figure-A-Six-methods-for-visualizing-the-same-2D-vector-field-They-include-1-icons-on.png",
-    "Templater.md",
-    "Math/Linear Algebra/linalg.md",
     "Surface Integrals and Stokes Theorem.pdf",
     "Attachments/Pasted image 20240528213547.png",
     "Attachments/Pasted image 20240528212810.png",
     "Attachments/Pasted image 20240521113029.png",
     "Attachments/Pasted Image 20240516115309_827.png",
-    "Attachments/Pasted Image 20240516115224_797.png",
-    "Attachments/Pasted image 20240515115116.png",
-    "Attachments/Pasted image 20240513222935.png",
-    "Attachments/Pasted image 20240513222649.png",
-    "Attachments/Pasted image 20240513112723.png",
     "Math/Vector Calculus",
     "Math/New folder",
     "Math/Linear Algebra",
