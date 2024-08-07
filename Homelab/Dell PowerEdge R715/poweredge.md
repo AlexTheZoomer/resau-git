@@ -84,10 +84,9 @@ Being based on Linux, much of the KVM groundwork has been around for a very long
 >- I'd say a basic knowledge of Linux is required. Things sometimes break.  ➖
 
 ---
+##### XCP-NG
 
 ![[xolist.png]]
-
-##### XCP-NG
 
 Ah… XCP-NG. This is certainly a peculiar one. I ran XCP-NG from March 2021 to December 2022 on `cabot-hugerobot1`, and honestly… I liked it! 
 
@@ -108,8 +107,8 @@ XCP-NG Center is an example of this. It is a piece of depreciated software in th
 	- Which includes **Live Migration**
 - File Serving Capabilities 
 	- (and *every type of storage file system imaginable*)
--  * VM Migration Support (from other virtualisation solutions, however not really live…)
-- * High Availability Failover (kind of…)
+- VM Migration Support (from other virtualisation solutions, however not really live…)
+- High Availability Failover (kind of…)
 - Networking (Slightly simpler than Proxmox)
 - Backup Management
 
@@ -129,8 +128,9 @@ Overall, XCP-NG is slightly more basic than Proxmox, while being a tad bit more 
 >- Migration and failover isn't really "live", it's more of  a  "warm migration". The idea is you migrate things over, shut down the VM briefly, and then move the last bit of data over and start it up on XCP. ➖
 
 ---
-![[VMwareESXiHostClientSummary.png]]
 ##### VMware ESXi
+
+![[VMwareESXiHostClientSummary.png]]
 
 To begin, I have very mixed feelings about ESXi. 
 
