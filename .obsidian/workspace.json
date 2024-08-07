@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homelab/Dell PowerEdge R715/poweredge.md",
+                "file": "Papers/importanceoffoss.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homelab/Dell PowerEdge R715/poweredge.md",
+                "file": "Papers/importanceoffoss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homelab/Dell PowerEdge R715/poweredge.md",
+                "file": "Papers/importanceoffoss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homelab/Dell PowerEdge R715/poweredge.md"
+                "file": "Papers/importanceoffoss.md"
               }
             }
           }
@@ -181,17 +181,20 @@
   },
   "active": "8ca72a59f8a8e114",
   "lastOpenFiles": [
+    "Papers/nationalcharge.md",
+    "Papers/importanceoffoss.md",
+    "Math/Physics (EM)/phys.md",
+    "Math/Vector Calculus/vec.md",
+    "Math/Linear Algebra/linalg.md",
+    "Homelab/Dell PowerEdge R715/poweredge.md",
     "Attachments/VMware-vCenter-Server-with-a-vSphere-cluster.png",
     "Homelab/Dell PowerEdge R715/imessage.md",
-    "Homelab/Dell PowerEdge R715/poweredge.md",
-    "Papers/importanceoffoss.md",
     "Attachments/VMwareESXiHostClientSummary.png",
     "f9a2c7a4-e1dd-44d5-876f-ae9e6fb9f7f4-grafik 1.png",
     "Attachments/f9a2c7a4-e1dd-44d5-876f-ae9e6fb9f7f4-grafik.png",
     "xenconsole.png",
     "Attachments/xolist.png",
     "index.md",
-    "Math/Vector Calculus/vec.md",
     "Math/Vector Calculus/Triple Integrals.md",
     "Math/Vector Calculus/Surface Integrals and Stokes Theorem.pdf",
     "Math/Vector Calculus/Summary of Line and Surface Integrals.md",
@@ -207,20 +210,17 @@
     "Math/Vector Calculus/Distance and Arc Length Calculation.md",
     "Math/Vector Calculus/Curvature and Torsion.md",
     "Math/Vector Calculus/Calculus of Scalar and Vector Fields (Vector Calculus).md",
-    "Math/Physics (EM)/phys.md",
     "Math/Physics (EM)/Ohm's Law.md",
     "Math/Physics (EM)/LC Circuits.md",
     "Math/Physics (EM)/Inductance, Inductors and Mutual Induction.md",
     "Math/Physics (EM)/Force on a Current Carrying Wire.md",
     "Math/Physics (EM)/Capacitors in Series.md",
-    "Math/Linear Algebra/Best Approximation.md",
     "Attachments/Untitled",
     "Attachments/Figure-A-Six-methods-for-visualizing-the-same-2D-vector-field-They-include-1-icons-on.png",
     "Surface Integrals and Stokes Theorem.pdf",
     "Attachments/Pasted image 20240528213547.png",
     "Attachments/Pasted image 20240528212810.png",
     "Attachments/Pasted image 20240521113029.png",
-    "Attachments/Pasted Image 20240516115309_827.png",
     "Math/Vector Calculus",
     "Math/New folder",
     "Math/Linear Algebra",

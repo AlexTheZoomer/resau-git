@@ -18,7 +18,6 @@ I would like to give a special thank you to:
 
 For their contributions in Mathematical education, and provision of knowledge for this wiki tree. The following notes are my second year class notes for Applied Vector Calculus, and I hope you may find them helpful!
 
-You may see references to "notes" in this document. This are in reference to provided class notes, that I unfortunately no longer have! I tried to clean them up, but bits may still be left behind. 
 
 ![[Figure-A-Six-methods-for-visualizing-the-same-2D-vector-field-They-include-1-icons-on.png]]
 
@@ -40,3 +39,6 @@ You may see references to "notes" in this document. This are in reference to pro
 - [[Divergence Theorem]] 
 - [[Summary of Line and Surface Integrals]]
 
+
+>[!note] 
+You may see references to "notes" in this document. This are in reference to provided class notes, that I unfortunately no longer have! I tried to clean them up, but bits may still be left behind. 

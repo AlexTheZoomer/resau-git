@@ -10,14 +10,15 @@ aliases:
 
 Alexandre DesAulniers | November 2023 | [PDF](https://drive.google.com/file/d/1-Z927hvaFHQ4h71m-EQyckvZ1ZIXOwMr/view?usp=sharing)
 
-## Abstract
-
-The GNU/Linux project, founded on the principles of free and open-source software (FOSS), has become a cornerstone of modern technology. This paper explores the historical development of GNU and Linux, their underlying “free and open source” licensing models, and their far-reaching impact across various domains. Key findings demonstrate the critical role of GNU/Linux in driving innovation in software development, mobile computing, cloud infrastructure, and scientific research. 
-
-
-
+>[!abstract] 
+The GNU/Linux project, founded on the principles of free and open-source software (FOSS), has become a cornerstone of modern technology. This paper explores the historical development of GNU and Linux, their underlying “free and open source” licensing models, and their far-reaching impact across various domains. Key findings demonstrate the critical role of GNU/Linux in driving innovation in software development, mobile computing, cloud infrastructure, and scientific research.
+>
+>
+>
+>
 While open-source software offers significant advantages, the importance of proper maintenance for security is emphasized, and has been put into question. The paper concludes by highlighting the enduring significance of GNU/Linux as a catalyst for global collaboration, accessibility, and technological advancement.
 
+^3f6ab9
 
 ___
 
@@ -25,7 +26,7 @@ ___
 
 ## Table of Contents
 
-- [[importanceoffoss#Abstract|Abstract]]
+- [[importanceoffoss#^3f6ab9|Abstract]]
 
 - [[importanceoffoss#Lists of Figures and Tables|Lists of Figures and Tables]]
 

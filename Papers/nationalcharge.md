@@ -10,24 +10,22 @@ aliases:
 
 Alexandre DesAulniers | March 2024 | [PDF](https://drive.google.com/file/d/1bH2xpy_td0OzaSvsQl2PB49UblCwcb_n/view?usp=sharing)
 
-## Abstract
-
-
-
+>[!abstract] 
 The following recommendation report delivers a recommendation on national ZEV charging standards based on evidence provided by Canadian consumers, national regulatory bodies, vehicle charging providers, automotive manufacturers, and patterns of international success. This assessment will build off the work of other national findings and global growing pains. Particularly, this report will be influenced by assessments submitted to National Resources Canada by Dunsky Energy and Climate Advisors on March 1st 2022 (Dunsky, 2022). Previous reporting has primarily focused on the national rollout of DCFC infrastructure, and national regulation on vehicle charging voltage regulation. While being a very positive and necessary recommendation, previous reportings are missing the primary scope to which this report of recommendation will address, that being electric vehicle connector charging standards. 
-
-  
-
+>
+  >
+>
 The following charging standards will be assessed on a series of appropriate, and relevant criteria, based on data found from select sources that have been properly vetted for bias, and provide purely technical and nonpartisan data. Preference will be given to data collected by Canadian national bodies such as National Resources Canada, Transport Canada, and Statistics Canada. After careful consideration and comparison, SAE J3400 NACS has been chosen as this report's recommendation due to findings and comparisons of reliability, flexibility, and ease of use. 
 
-  
+^0450a1
+
   ---
   
 
 
 ## Table of Contents 
 
-- [[nationalcharge#Abstract|Abstract]]
+- [[nationalcharge#^0450a1|Abstract]]
 
 - [[nationalcharge#Lists Of Figures and Tables|Lists of Figures and Tables]]
 
