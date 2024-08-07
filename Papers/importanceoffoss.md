@@ -21,39 +21,6 @@ Alexandre DesAulniers | November 2023 | [PDF](https://drive.google.com/file/d/1-
 ^3f6ab9
 
 ___
-
-
-
-## Table of Contents
-
-- [[importanceoffoss#^3f6ab9|Abstract]]
-- [[importanceoffoss#Lists of Figures and Tables|Lists of Figures and Tables]]
-	- [[importanceoffoss#List of Figures|Lists of Figures]]
-	- [[importanceoffoss#Lists of Tables|Lists of Tables]]
-1. [[importanceoffoss#1. Introduction|Introduction]]
-2. [[importanceoffoss#2. Technical Background|Technical Background]]
-	2.1 [[importanceoffoss#2.1 What is FOSS, and what are the GPL/MIT licenses?|What is FOSS, and what are the GPL/MIT licenses?]]       
-	2.2  [[importanceoffoss#2.2 Linux’s Origins in UNIX|Linux's Origins in UNIX]]     
-	2.3 [[importanceoffoss#2.3 Operation, Protocol and Maintenance of the Linux kernel and GNU project|Operation, Protocol and Maintenance of the Linux kernel and GNU project]]       
-	2.4 [[importanceoffoss#2.4 Contribution to the GNU/Linux Project|Contribution to the GNU/Linux Project]]     
-3. [[importanceoffoss#3. Societal Impacts|Societal Impacts]]
-	3.1 [[importanceoffoss#Importance of the Open-Source Philosophy, and of the GNU/Linux Project|Importance of the Open-Source Philosophy, and of the GNU/Linux Project]]
-	3.2 [[importanceoffoss#3.2 Current Global Importance of the Open-Source Philosophy.|Current Global Importance of the Open-Source Philosophy]] 
-	3.3 [[importanceoffoss#3.3 Can We Trust Open-Source Software?|Can We Trust Open-Source Software?]]
-4. [[importanceoffoss#4. Current and Potential Applications of GNU/Linux|Current and Potential Applications of GNU/Linux]]
-	4.1 [[importanceoffoss#4.1 The Importance of GNU/Linux in Mobile Computing|The Importance of GNU/Linux in Mobile Computing]]
-	4.2 [[importanceoffoss#4.2 Importance of GNU/Linux in Large Scale / Cloud Computing|Importance of GNU/Linux in Large Scale / Cloud Computing]]
-	4.3 [[importanceoffoss#4.3 Importance of GNU/Linux, and FOSS in Science and Education|Importance of GNU/Linux, and FOSS in science and education]]
-5. [[importanceoffoss#5. Conclusion|Conclusion]] 
-
-- [[importanceoffoss#References|References]]
-
-# Lists of Figures and Tables
-
-
-
-
-
 ## List of Figures
 
 - Figure 1: [[importanceoffoss#^5b6d11|Usage chart of common open-source licenses in 2021 according to security and open-source compliance auditor firm mend.io (Rjjiii & Wikimedia Commons, 2023)]]
