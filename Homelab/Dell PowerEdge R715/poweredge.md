@@ -10,7 +10,7 @@ tags:
 	- [[poweredge#<u>Virtual Enviroments</u>|Virtual Enviroments]]
 		- [[poweredge#Proxmox VE|Proxmox VE]]
 		- [[poweredge#XCP-NG|XCP-NG]]
-
+		- [[poweredge#VMware ESXi|ESXi]]
 ---
 
 ## Introduction
