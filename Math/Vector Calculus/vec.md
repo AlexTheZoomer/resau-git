@@ -41,4 +41,4 @@ For their contributions in Mathematical education, and provision of knowledge fo
 
 
 >[!note] 
-You may see references to "notes" in this document. This are in reference to provided class notes, that I unfortunately no longer have! I tried to clean them up, but bits may still be left behind. 
+>You may see references to "notes" in this document. This are in reference to provided class notes, that I unfortunately no longer have! I tried to clean them up, but bits may still be left behind. 
