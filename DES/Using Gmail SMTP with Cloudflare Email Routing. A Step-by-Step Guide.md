@@ -8,6 +8,7 @@ aliases:
 ![[Pasted image 20240902184601.png]]
 
 **As written by [irazasyed](https://gist.github.com/irazasyed/a5ca450f1b1b8a01e092b74866e9b2f1)**:
+
 And modified by [Alexandre DesAulniers](https://github.com/AlexTheZoomer):
 
 ---

@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homelab/Dell PowerEdge R715/poweredge.md",
+                "file": "DES/Using Gmail SMTP with Cloudflare Email Routing. A Step-by-Step Guide.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homelab/Dell PowerEdge R715/poweredge.md",
+                "file": "DES/Using Gmail SMTP with Cloudflare Email Routing. A Step-by-Step Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homelab/Dell PowerEdge R715/poweredge.md",
+                "file": "DES/Using Gmail SMTP with Cloudflare Email Routing. A Step-by-Step Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homelab/Dell PowerEdge R715/poweredge.md"
+                "file": "DES/Using Gmail SMTP with Cloudflare Email Routing. A Step-by-Step Guide.md"
               }
             }
           }
@@ -181,8 +181,8 @@
   },
   "active": "8ca72a59f8a8e114",
   "lastOpenFiles": [
-    "Homelab/Dell PowerEdge R715/imessage.md",
     "Homelab/Dell PowerEdge R715/poweredge.md",
+    "Homelab/Dell PowerEdge R715/imessage.md",
     "DES/Using Gmail SMTP with Cloudflare Email Routing. A Step-by-Step Guide.md",
     "Attachments/Pasted image 20240902193008.png",
     "Attachments/Pasted image 20240902184601.png",
