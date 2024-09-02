@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DES/Using Gmail SMTP with Cloudflare Email Routing. A Step-by-Step Guide.md",
+                "file": "Homelab/Dell PowerEdge R715/poweredge.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DES/Using Gmail SMTP with Cloudflare Email Routing. A Step-by-Step Guide.md",
+                "file": "Homelab/Dell PowerEdge R715/poweredge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DES/Using Gmail SMTP with Cloudflare Email Routing. A Step-by-Step Guide.md",
+                "file": "Homelab/Dell PowerEdge R715/poweredge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DES/Using Gmail SMTP with Cloudflare Email Routing. A Step-by-Step Guide.md"
+                "file": "Homelab/Dell PowerEdge R715/poweredge.md"
               }
             }
           }
@@ -181,9 +181,10 @@
   },
   "active": "8ca72a59f8a8e114",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20240902193008.png",
     "Homelab/Dell PowerEdge R715/imessage.md",
+    "Homelab/Dell PowerEdge R715/poweredge.md",
     "DES/Using Gmail SMTP with Cloudflare Email Routing. A Step-by-Step Guide.md",
+    "Attachments/Pasted image 20240902193008.png",
     "Attachments/Pasted image 20240902184601.png",
     "Attachments/Pasted image 20240902185133.png",
     "DES",
@@ -194,8 +195,6 @@
     "Attachments/capture.png",
     "Attachments/Screenshot 2024-08-31 210848.png",
     "Pasted image 20240831211202.png",
-    "Homelab/Dell PowerEdge R715/poweredge.md",
-    "Attachments/Screen-Shot-2024-07-12-at-11.45.png",
     "Math/Linear Algebra/linalg.md",
     "Math/Vector Calculus/Green's Therorem and Surface Integrals.pdf",
     "Papers/nationalcharge.md",
