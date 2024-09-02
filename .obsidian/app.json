@@ -1,5 +1,7 @@
 {
   "spellcheckDictionary": [
-    "XenServer"
-  ]
+    "XenServer",
+    " s"
+  ],
+  "alwaysUpdateLinks": true
 }

@@ -28,7 +28,7 @@ For their contributions in Mathematical education, and provision of knowledge fo
 - [[Orthogonal Sets in Rn]]
 - [[Gram-Schmidt]]
 - [[QR Decomposition]]
-- [[Complex Numbers]]---
+- [[Complex Numbers]]
 - [[Best Approximation]]
 - [[General Vector Spaces and LeGrange Polynomials]]
 - [[Weighted Least Squares, Best Approximations of Functions]]

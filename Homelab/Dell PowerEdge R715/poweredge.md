@@ -21,7 +21,7 @@ As currently spec'd, this server includes:
 
 - **2x AMD Opteron 6380 CPU** - 16 Core, 115W 
 - **DELL DXTP3 SR5670** Motherboard
-- **AMD RX 560 GPU** (*mainly used for MacOS video acceleration*)
+- **AMD RX 460 GPU** (*mainly used for MacOS video acceleration*)
 - **Matrox G200** Video Accelerator
 - **64GB Micron DDR3 1600MHz** Ram 
 - **DELL PERC H700 RAID Accelerator**
@@ -51,7 +51,7 @@ It's certainly not a new beast, but it's been able to keep up with my lifestyle,
 
 To put it simply, Proxmox VE has been a treat to use. I've been using it since release six, and it's just been plain flexible. I've deployed servers in production, and have other servers at home running Proxmox, and it has been the most powerful and stable solution that I've found so far. Being based on Debian, with a recent enough kernel and a titan of a community, it has been a rock solid option that has an answer to the majority of problems I've run into. 
 
-Being based on Linux, much of the KVM groundwork has been around for a very long time, and is very easily translatable. Projects such as my [[imessage|MacOS Relay Server]] have gone much smoother than previous attempts solely due to the amount of community support and existing KVM resources. Proxmox has been that for me. I've been a huge fan of Proxmox's [[importanceoffoss|FOSS nature]], and the amount of community contribution. 
+Being based on Linux, much of the KVM groundwork has been around for a very long time, and is very easily translatable. Projects such as my [[imessage|MacOS Relay Server]] have gone much smoother than previous attempts solely due to the amount of community support and existing KVM resources. Proxmox has been that for me. I've been a huge fan of Proxmox's [[importanceoffoss|FOSS nature]], and the amount of community contribution.  ^acf846
 
 **Proxmox has robust:**
 

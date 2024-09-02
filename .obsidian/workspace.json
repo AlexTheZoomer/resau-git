@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers/nationalcharge.md",
+                "file": "DES/Using Gmail SMTP with Cloudflare Email Routing. A Step-by-Step Guide.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers/nationalcharge.md",
+                "file": "DES/Using Gmail SMTP with Cloudflare Email Routing. A Step-by-Step Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Papers/nationalcharge.md",
+                "file": "DES/Using Gmail SMTP with Cloudflare Email Routing. A Step-by-Step Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Papers/nationalcharge.md"
+                "file": "DES/Using Gmail SMTP with Cloudflare Email Routing. A Step-by-Step Guide.md"
               }
             }
           }
@@ -181,19 +181,27 @@
   },
   "active": "8ca72a59f8a8e114",
   "lastOpenFiles": [
-    "Papers/importanceoffoss.md",
+    "Attachments/Pasted image 20240902193008.png",
+    "Homelab/Dell PowerEdge R715/imessage.md",
+    "DES/Using Gmail SMTP with Cloudflare Email Routing. A Step-by-Step Guide.md",
+    "Attachments/Pasted image 20240902184601.png",
+    "Attachments/Pasted image 20240902185133.png",
+    "DES",
+    "Attachments/Header Fermilabs 11th employee_0.jpg",
+    "Attachments/Pasted image 20240831214529.png",
+    "Attachments/maxresdefault.jpg",
+    "Attachments/ss.png",
+    "Attachments/capture.png",
+    "Attachments/Screenshot 2024-08-31 210848.png",
+    "Pasted image 20240831211202.png",
+    "Homelab/Dell PowerEdge R715/poweredge.md",
+    "Attachments/Screen-Shot-2024-07-12-at-11.45.png",
+    "Math/Linear Algebra/linalg.md",
+    "Math/Vector Calculus/Green's Therorem and Surface Integrals.pdf",
     "Papers/nationalcharge.md",
+    "Papers/importanceoffoss.md",
     "Math/Vector Calculus/vec.md",
     "Math/Physics (EM)/phys.md",
-    "Math/Linear Algebra/linalg.md",
-    "Homelab/Dell PowerEdge R715/poweredge.md",
-    "Attachments/VMware-vCenter-Server-with-a-vSphere-cluster.png",
-    "Homelab/Dell PowerEdge R715/imessage.md",
-    "Attachments/VMwareESXiHostClientSummary.png",
-    "f9a2c7a4-e1dd-44d5-876f-ae9e6fb9f7f4-grafik 1.png",
-    "Attachments/f9a2c7a4-e1dd-44d5-876f-ae9e6fb9f7f4-grafik.png",
-    "xenconsole.png",
-    "Attachments/xolist.png",
     "index.md",
     "Math/Vector Calculus/Triple Integrals.md",
     "Math/Vector Calculus/Surface Integrals and Stokes Theorem.pdf",
@@ -202,7 +210,6 @@
     "Math/Vector Calculus/Multivariable Integration.md",
     "Math/Vector Calculus/Line Integrals.md",
     "Math/Vector Calculus/Implicit Functions and Differentiation.md",
-    "Math/Vector Calculus/Green's Therorem and Surface Integrals.pdf",
     "Math/Vector Calculus/Gradients Revisited and Linear Approximations.md",
     "Math/Vector Calculus/Functions of Several Variables.md",
     "Math/Vector Calculus/Fields and the Laplacian.md",
@@ -213,20 +220,13 @@
     "Math/Physics (EM)/Ohm's Law.md",
     "Math/Physics (EM)/LC Circuits.md",
     "Math/Physics (EM)/Inductance, Inductors and Mutual Induction.md",
-    "Math/Physics (EM)/Force on a Current Carrying Wire.md",
-    "Math/Physics (EM)/Capacitors in Series.md",
     "Attachments/Untitled",
-    "Attachments/Figure-A-Six-methods-for-visualizing-the-same-2D-vector-field-They-include-1-icons-on.png",
     "Surface Integrals and Stokes Theorem.pdf",
-    "Attachments/Pasted image 20240528213547.png",
-    "Attachments/Pasted image 20240528212810.png",
-    "Attachments/Pasted image 20240521113029.png",
     "Math/Vector Calculus",
     "Math/New folder",
     "Math/Linear Algebra",
     "Papers",
     "Homelab/Dell PowerEdge R715",
-    "Homelab",
     "Attachments/Dalhousie Requirements and Outlines.canvas",
     "Math/Attachments/Dalhousie Requirements and Outlines.canvas"
   ]
