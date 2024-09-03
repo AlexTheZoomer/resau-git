@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DES/Using Gmail SMTP with Cloudflare Email Routing. A Step-by-Step Guide.md",
+                "file": "Homelab/Dell PowerEdge R715/imessage.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DES/Using Gmail SMTP with Cloudflare Email Routing. A Step-by-Step Guide.md",
+                "file": "Homelab/Dell PowerEdge R715/imessage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DES/Using Gmail SMTP with Cloudflare Email Routing. A Step-by-Step Guide.md",
+                "file": "Homelab/Dell PowerEdge R715/imessage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DES/Using Gmail SMTP with Cloudflare Email Routing. A Step-by-Step Guide.md"
+                "file": "Homelab/Dell PowerEdge R715/imessage.md"
               }
             }
           }
@@ -181,9 +181,10 @@
   },
   "active": "8ca72a59f8a8e114",
   "lastOpenFiles": [
-    "Homelab/Dell PowerEdge R715/poweredge.md",
+    "index.md",
     "Homelab/Dell PowerEdge R715/imessage.md",
     "DES/Using Gmail SMTP with Cloudflare Email Routing. A Step-by-Step Guide.md",
+    "Homelab/Dell PowerEdge R715/poweredge.md",
     "Attachments/Pasted image 20240902193008.png",
     "Attachments/Pasted image 20240902184601.png",
     "Attachments/Pasted image 20240902185133.png",
@@ -201,7 +202,6 @@
     "Papers/importanceoffoss.md",
     "Math/Vector Calculus/vec.md",
     "Math/Physics (EM)/phys.md",
-    "index.md",
     "Math/Vector Calculus/Triple Integrals.md",
     "Math/Vector Calculus/Surface Integrals and Stokes Theorem.pdf",
     "Math/Vector Calculus/Summary of Line and Surface Integrals.md",
