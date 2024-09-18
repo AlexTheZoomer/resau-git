@@ -78,9 +78,13 @@ What is f on curve?
 	- The Tangential Component
 	- The Normal Component
 	
+
+
 $$
 \vec{f} = \vec{f}_\hat{T} + \vec{f}_\hat{N}
 $$
+
+
 
 ![[PXL_20240604_144858972.jpg]]
 

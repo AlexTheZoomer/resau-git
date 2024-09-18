@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homelab/Dell PowerEdge R715/imessage.md",
+                "file": "index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homelab/Dell PowerEdge R715/imessage.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homelab/Dell PowerEdge R715/imessage.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homelab/Dell PowerEdge R715/imessage.md"
+                "file": "index.md"
               }
             }
           }
@@ -181,44 +181,44 @@
   },
   "active": "8ca72a59f8a8e114",
   "lastOpenFiles": [
+    "PXL_20230809_155103802~3.jpg",
+    "Pasted image 20240918204805.png",
     "index.md",
+    "Pasted image 20240918204802.png",
+    "Math/Vector Calculus/vec.md",
+    "Math/Vector Calculus/Fields and the Laplacian.md",
+    "Math/Vector Calculus/Multivariable Integration.md",
+    "Math/Vector Calculus/Gradients Revisited and Linear Approximations.md",
+    "Math/Linear Algebra/Linear Combination, Span, Linear Independence.md",
+    "Math/Linear Algebra/linalg.md",
+    "Math/Linear Algebra/Gram-Schmidt.md",
+    "Math/Linear Algebra/Complex Numbers.md",
+    "Math/Linear Algebra/Best Approximation.md",
+    "Math/Linear Algebra/Basis and Dimension.md",
+    "Attachments/Pasted image 20240409110012.png",
+    "Attachments/Pasted image 20240409112430.png",
+    "Attachments/Pasted image 20240409110225.png",
+    "Math/Linear Algebra/QR Decomposition.md",
+    "Math/Linear Algebra/Orthogonal Sets in Rn.md",
+    "Math/Vector Calculus/Triple Integrals.md",
+    "Math/Vector Calculus/Calculus of Scalar and Vector Fields (Vector Calculus).md",
+    "Papers/nationalcharge.md",
     "Homelab/Dell PowerEdge R715/imessage.md",
+    "Attachments/Header Fermilabs 11th employee_0.jpg",
+    "Papers/importanceoffoss.md",
     "DES/Using Gmail SMTP with Cloudflare Email Routing. A Step-by-Step Guide.md",
     "Homelab/Dell PowerEdge R715/poweredge.md",
     "Attachments/Pasted image 20240902193008.png",
     "Attachments/Pasted image 20240902184601.png",
     "Attachments/Pasted image 20240902185133.png",
     "DES",
-    "Attachments/Header Fermilabs 11th employee_0.jpg",
-    "Attachments/Pasted image 20240831214529.png",
-    "Attachments/maxresdefault.jpg",
-    "Attachments/ss.png",
-    "Attachments/capture.png",
-    "Attachments/Screenshot 2024-08-31 210848.png",
-    "Pasted image 20240831211202.png",
-    "Math/Linear Algebra/linalg.md",
     "Math/Vector Calculus/Green's Therorem and Surface Integrals.pdf",
-    "Papers/nationalcharge.md",
-    "Papers/importanceoffoss.md",
-    "Math/Vector Calculus/vec.md",
     "Math/Physics (EM)/phys.md",
-    "Math/Vector Calculus/Triple Integrals.md",
     "Math/Vector Calculus/Surface Integrals and Stokes Theorem.pdf",
     "Math/Vector Calculus/Summary of Line and Surface Integrals.md",
     "Math/Vector Calculus/Polar Coordinates, Cylindrical Systems, Spherical Systems.md",
-    "Math/Vector Calculus/Multivariable Integration.md",
     "Math/Vector Calculus/Line Integrals.md",
     "Math/Vector Calculus/Implicit Functions and Differentiation.md",
-    "Math/Vector Calculus/Gradients Revisited and Linear Approximations.md",
-    "Math/Vector Calculus/Functions of Several Variables.md",
-    "Math/Vector Calculus/Fields and the Laplacian.md",
-    "Math/Vector Calculus/Divergence Theorem.md",
-    "Math/Vector Calculus/Distance and Arc Length Calculation.md",
-    "Math/Vector Calculus/Curvature and Torsion.md",
-    "Math/Vector Calculus/Calculus of Scalar and Vector Fields (Vector Calculus).md",
-    "Math/Physics (EM)/Ohm's Law.md",
-    "Math/Physics (EM)/LC Circuits.md",
-    "Math/Physics (EM)/Inductance, Inductors and Mutual Induction.md",
     "Attachments/Untitled",
     "Surface Integrals and Stokes Theorem.pdf",
     "Math/Vector Calculus",

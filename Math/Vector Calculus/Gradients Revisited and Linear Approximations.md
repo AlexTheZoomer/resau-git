@@ -75,9 +75,12 @@ Types of Extreme Values
 
 $$
 D_uf= \nabla f\cdot\hat{u}
-$$ $$
+$$
+
+$$
 \text{To have a critical point, } D_uf \text{ must equal 0} 
 $$
+
 $$
 \text{If } \nabla f =0, \text{ that makes this true.}
 $$

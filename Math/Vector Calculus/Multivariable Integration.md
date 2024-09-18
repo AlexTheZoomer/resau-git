@@ -47,9 +47,13 @@ $$
 $$
 Plug in A and B to be...
 
+
+
 $$
 (f(b,y)+c(y))-(f(a,y)+c(y))
-$$ $$
+$$
+
+$$
 f(b,y) - f(a,y)
 $$
 Now, this is just a function of Y (no X)

@@ -3,7 +3,6 @@ title: Advanced Linear Algebra
 draft: false
 tags:
   - Mathematics
-  - ➗
 ---
 Before we begin!
 
