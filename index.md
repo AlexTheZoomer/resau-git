@@ -4,6 +4,8 @@ draft: false
 tags:
   - Introductions
 ---
+## 🎋 Introduction
+
 Hi there 😊
 
 My name is Alexandre, and I am an Electrical Engineering student at [Dalhousie University 🐯](https://www.dal.ca/). 
@@ -14,23 +16,21 @@ On this site, I hope to publish notes about projects that I am working on, guide
 
 This site is being run on my Dell PowerEdge R715 homelab server, being routed through NGINX, and Cloudflare to the open web.  This web base is written entirely in `Markdown`, being interpreted by [Quartz](https://quartz.jzhao.xyz/) into HTML.  I hope you can learn something from me, and am always happy to respond to emails!
 
-Some of the things I have worked on.
+## 🖨️ Some of my Current Projects:
 
 - [🗃️ Dell PowerEdge R715 Restoration | Homelab Project](poweredge.md)
 	- VSphere, XCP-NG and finally, Proxmox
 	- Proxmox Services Tree
 	- [[imessage|🍎 MacOS Monterey Installation, with working IServices and Hardware Acceleration, on a Dual AMD Opteron 6380 server.]]
-
-
+<br>
 - Guides on Mathematics for those like I... (challenged)
 	- [🧮 Vector Calculus](vec.md)
 	- [🟰 Linear Algebra](linalg.md)
 	- [[phys|🧲 Electromagnetics and Circuits]]
-
-
+<br>
 - My Academic Papers
 	- [[nationalcharge|🚙 National Charge: Canadian Federal EV Standards Regulation]]
-	- [[importanceoffoss|💽 The Vital Importance of FOSS:The GNU/Linux Operating System]]
+	- [[importanceoffoss|💾 The Vital Importance of FOSS:The GNU/Linux Operating System]]
 
 
 ---
