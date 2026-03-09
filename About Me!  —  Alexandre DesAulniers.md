@@ -29,6 +29,7 @@ Please reach out to me at any point at a@desau.ca, and I would be happy to answe
 ## Quick Guide 
 
 - [[About Me!  —  Alexandre DesAulniers#Education 🏫|Education 🏫]]
+- [[projects|My Project Archive!]]
 - [[About Me!  —  Alexandre DesAulniers#Internships / Work Experience 🗃️|Internships / Work Experience 🗃️]]
 - [[About Me!  —  Alexandre DesAulniers#Student Involvement 🎋|Student Involvement 🎋-]]
 - [[About Me!  —  Alexandre DesAulniers#Personal Interests and Projects 🦚|Personal Interests and Projects 🦚]]
@@ -57,6 +58,9 @@ Bachelor of Engineering — BE, Electrical and Electronics Engineering
 	
 ![[PXL_20240321_134126876.jpg|215]]![[Pasted image 20251227150452.png|210]] ![[Screenshot 2025-03-31 223154.png|185]]
 ![[Pasted image 20251227150106.png|199]]![[PXL_20231004_225748474(1).jpg|214]]![[Pasted image 20251227145547.png|199]]
+
+---
+![[projects]]
 
 ---
 # Internships / Work Experience 🗃️
@@ -146,6 +150,8 @@ Dalhousie Formula SAE
 
 - **Cross-Functional Consultation**: Acting as a technical lead for simulation infrastructure, bridging the gap between team use requirements and hardware capabilities.
 
+	![[Pasted image 20260217210014.png|250]]![[Pasted image 20260217210322.png|250]]
+	![[Pasted image 20260217210246.png|232]] ![[Pasted image 20260217210228.png|265]]
 
 ---
 

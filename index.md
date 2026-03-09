@@ -16,15 +16,12 @@ On this site, I hope to publish notes about projects that I am currently interes
 You can read more into my portfolio under [[About Me!  —  Alexandre DesAulniers|about me!]]
 
 This site is being run on my Dell PowerEdge R715 homelab server, being routed through NGINX, and Cloudflare to the open web.  This web base is written entirely in `Markdown`, being interpreted by [Quartz](https://quartz.jzhao.xyz/) into HTML. 
-
-## 🖨️ Some of my Current Projects:
-
-- [🗃️ Dell PowerEdge R715 Restoration | Homelab Project](poweredge.md)
-	- VSphere, XCP-NG and finally, Proxmox
-	- Proxmox Services Tree
-	- [[imessage|🍎 MacOS Monterey Installation, with working IServices and Hardware Acceleration, on a Dual AMD Opteron 6380 server.]]
 <br>
-- Class notes, for those who struggle... (like I did)
+### 🖨️ About Me!:
+
+![[About Me!  —  Alexandre DesAulniers]]
+
+## 🖨️ Class Notes:
 
 ---
 **Engineering Mathematics:**
